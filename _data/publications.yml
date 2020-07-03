@@ -1,0 +1,716 @@
+- id: yang2020tkde
+  authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
+  url: pdf/yang2020tkde.pdf
+  venue: IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  year: 2020
+  type: "full research paper"
+  highlight:
+  title: "LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks"
+  bib: |
+    @inproceedings{yang2020tkde,
+      title={LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks},
+      author={Yang, Dingqi and Qu, Bingqing and Yang, Jie and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={IEEE Transactions on Knowledge and Data Engineering},
+      pages={to appear},
+      year={2020},
+      organization={IEEE}
+    }
+- id: zhang2020sigir
+  authors: Rongting Zhang and Jie Yang
+  url: pdf/zhang2020sigir.pdf
+  venue: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+  year: 2020
+  type: "full research paper"
+  highlight:
+  title: "Web-to-Voice Transfer for Product Recommendation on Voice"
+  bib: |
+    @inproceedings{zhang2020sigir,
+      title={Web-to-Voice Transfer for Product Recommendation on Voice},
+      author={Zhang, Rongting and Yang, Jie},
+      booktitle={Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+      pages={to appear},
+      year={2020},
+      organization={ACM}
+    }
+
+- id: arous2020www
+  authors: Ines Arous, Jie Yang, Mourad Khayati, and Philippe Cudré-Mauroux
+  url: pdf/arous2020www.pdf
+  venue: The Web Conference (WWW)
+  year: 2020
+  type: "full research paper"
+  highlight:
+  title: "OpenCrowd: A Human-AI Collaborative Approach for Finding Social Influencers via Open-Ended Answers Aggregation"
+  bib: |
+    @inproceedings{arous2020www,
+      title={OpenCrowd: A Human-AI Collaborative Approach for Finding Social Influencers via Open-Ended Answers Aggregation},
+      author={Arous, Ines and Yang, Jie and Khayati, Mourad and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={The World Wide Web Conference},
+      pages={to appear},
+      year={2020},
+      organization={ACM}
+    }
+
+- id: moraes2020chiir
+  authors: Felipe Moraes, Jie Yang, Rongting Zhang, and Vanessa Murdock
+  url: pdf/moraes2020chiir.pdf
+  venue: ACM SIGIR Conference on Human Information Interaction & Retrieval (CHIIR)
+  year: 2020
+  type: "full research paper"
+  highlight:
+  title: "The Role of Attributes in Product Quality Comparisons"
+  bib: |
+    @inproceedings{moraes2020chiir,
+      title={The Role of Attributes in Product Quality Comparisons},
+      author={Moraes, Felipe and Yang, Jie and Zhang, Rongting and Murdock, Vanessa},
+      booktitle={Proceedings of the Fifth ACM SIGIR Conference on Human Information Interaction & Retrieval},
+      pages={to appear},
+      year={2020},
+      organization={ACM}
+    }
+
+- id: chen2020ijcai
+  authors: Zhijun Chen, Huimin Wang, Hailong Sun, Pengpeng Chen, Tao Han, Hudong Liu, and Jie Yang
+  url: pdf/chen2020ijcai.pdf
+  venue: International Joint Conference on Artificial Intelligence (IJCAI)
+  year: 2020
+  type: "full research paper"
+  highlight:
+  title: "Structured Probabilistic End-to-End Learning from Crowds"
+  bib: |
+    @inproceedings{chen2020ijcai,
+      title={Structured Probabilistic End-to-End Learning from Crowds},
+      author={Chen, Zhijun and Wang, Huimin and Sun, Hailong and Chen, Pengpeng and Han, Tao and Liu, Hudong and Yang, Jie},
+      booktitle={Proceedings of the 29th International Joint Conference on Artificial Intelligence},
+      pages={to appear},
+      year={2020}
+    }
+
+- id: bhardwaj2020aaai
+  authors: Akansha Bhardwaj, Jie Yang, and Philippe Cudré-Mauroux
+  url: pdf/bhardwaj2020aaai.pdf
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
+  year: 2020
+  type: "full research paper"
+  highlight:
+  title: "A Human-AI Loop Approach for Joint Keyword Discovery and Expectation Estimation in Micropost Event Detection"
+  bib: |
+    @inproceedings{bhardwaj2020aaai,
+      title={A Human-AI Loop Approach for Joint Keyword Discovery and Expectation Estimation in Micropost Event Detection},
+      author={Bhardwaj, Akansha and Yang, Jie and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
+      pages={to appear},
+      year={2020},
+      organization={AAAI}
+    }
+
+- id: mesbah2019emnlp
+  authors: Sepideh Mesbah, Jie Yang, Robert-Jan Sips, Manuel Valle Torre, Christoph Lofi, Alessandro Bozzon, and Geert-Jan Houben
+  url: pdf/mesbah2019emnlp.pdf
+  venue: Empirical Methods in Natural Language Processing (EMNLP)
+  year: 2019
+  type: "full research paper"
+  highlight:
+  title: "Training Data Augmentation for Detecting Adverse Drug Reactions in User-Generated Content"
+  bib: |
+    @inproceedings{mesbah2019emnlp,
+      title={Training Data Augmentation for Detecting Adverse Drug Reactions in User-Generated Content},
+      author={Mesbah, Sepideh and Yang, Jie and Sips, Robert-Jan and Valle Torre, Manuel and Lofi, Christoph and Bozzon, Alessandro and Houben, Geert-Jan},
+      booktitle={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},
+      pages={2349--2359},
+      year={2019},
+      organization={ACL}
+    }
+
+- id: sun2019ecra
+  authors: Zhu Sun, Qing Guo, Jie Yang, Hui Fang, Guibing Guo, Jie Zhang, and Robin Burke
+  url: pdf/sun2019ecra.pdf
+  venue: Electronic Commerce Research and Applications (ECRA)
+  year: 2019
+  type: "journal paper"
+  highlight:
+  title: "Research Commentary on Recommendations with Side Information: A Survey and Research Directions"
+  bib: |
+    @article{sun2019ecra,
+      title={Research Commentary on Recommendations with Side Information: A Survey and Research Directions},
+      author={Sun, Zhu and Guo, Qing and Yang, Jie and Fang, Hui and Guo, Guibing and Zhang, Jie and Burke, Robin},
+      journal={Electronic Commerce Research and Applications},
+      volume={37},
+      pages={100879},
+      year={2019},
+      publisher={Elsevier}
+    }
+
+- id: yang2019www_scalpel
+  authors: Jie Yang, Alisa Smirnova, Dingqi Yang, Gianluca Demartini, Yuan Lu, and Philippe Cudré-Mauroux
+  url: pdf/yang2019www_scalpel.pdf
+  venue: The Web Conference (WWW)
+  year: 2019
+  type: "full research paper"
+  highlight:
+  title: "Scalpel-CD: Leveraging Crowdsourcing and Deep Probabilistic Modeling for Debugging Noisy Training Data"
+  bib: |
+    @inproceedings{yang2019www_scalpel,
+      title={Scalpel-CD: Leveraging Crowdsourcing and Deep Probabilistic Modeling for Debugging Noisy Training Data},
+      author={Yang, Jie and Smirnova, Alisa and Yang, Dingqi and Demartini, Gianluca and Lu, Yuan and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={The World Wide Web Conference},
+      pages={2158--2168},
+      year={2019},
+      organization={ACM}
+    }
+
+- id: ostapuk2019www
+  authors: Natalia Ostapuk, Jie Yang, and Philippe Cudré-Mauroux
+  url: pdf/ostapuk2019www.pdf
+  venue: The Web Conference (WWW)
+  year: 2019
+  type: "full research paper"
+  highlight:
+  title: "ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs"
+  bib: |
+    @inproceedings{ostapuk2019www,
+      title={ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs},
+      author={Ostapuk, Natalia and Yang, Jie and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={The World Wide Web Conference},
+      pages={1398--1408},
+      year={2019},
+      organization={ACM}
+    }
+
+- id: yang2019www_revisiting
+  authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
+  url: pdf/yang2019www_revisiting.pdf
+  venue: The Web Conference (WWW)
+  year: 2019
+  type: "full research paper"
+  highlight:
+  title: "Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach"
+  bib: |
+    @inproceedings{yang2019www_revisiting,
+      title={Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach},
+      author={Yang, Dingqi and Qu, Bingqing and Yang, Jie and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={The World Wide Web Conference},
+      pages={2147--2157},
+      year={2019},
+      organization={ACM}
+    }
+
+- id: chen2019aied
+  authors: Guanliang Chen, Jie Yang, and Dragan Gasevic
+  url: pdf/chen2019aied.pdf
+  venue: International Conference on Artificial Intelligence in Education (AIED)
+  year: 2019
+  type: "full research paper"
+  highlight:
+  title: "A Comparative Study on Question-worthy Sentence Selection Strategies for Educational Question Generation"
+  bib: |
+    @inproceedings{chen2019comparative,
+      title={A Comparative Study on Question-Worthy Sentence Selection Strategies for Educational Question Generation},
+      author={Chen, Guanliang and Yang, Jie and Gasevic, Dragan},
+      booktitle={International Conference on Artificial Intelligence in Education},
+      pages={59--70},
+      year={2019},
+      organization={Springer}
+    }
+
+- id: sun2018recsys
+  authors: Zhu Sun, Jie Yang, Jie Zhang, Alessandro Bozzon, Long-Kai Huang, and Chi Xu
+  url: pdf/sun2018recsys.pdf
+  venue: ACM Conference on Recommender Systems (RecSys)
+  year: 2018
+  type: "full research paper"
+  highlight:
+  title: "Recurrent Knowledge Graph Embedding for Effective Recommendation"
+  bib: |
+    @inproceedings{sun2018recsys,
+      title={Recurrent Knowledge Graph Embedding for Effective Recommendation},
+      author={Sun, Zhu and Yang, Jie and Zhang, Jie and Bozzon, Alessandro and Huang, Long-Kai and Xu, Chi},
+      booktitle={Proceedings of the 12nd ACM Conference on Recommender Systems},
+      pages={297--305},
+      year={2018},
+      organization={ACM}
+    }
+
+- id: yang2018hcomp
+  authors: Jie Yang, Carlo van der Valk, Tobias Hoßfeld, Judith Redi, and Alessandro Bozzon
+  url: pdf/yang2018hcomp.pdf
+  venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
+  year: 2018
+  type: "full research paper"
+  highlight:
+  title: "How do Crowdworker Communities and Microtask Markets Influence Each Other? A Data-Driven Study on Amazon Mechanical Turk"
+  bib: |
+    @inproceedings{yang2018hcomp,
+      title={How do Crowdworker Communities and Microtask Markets Influence Each Other? A Data-Driven Study on Amazon Mechanical Turk},
+      author={Yang, Jie and van der Valk, Carlo and Ho{\ss}feld, Tobias and Redi, Judith and Bozzon, Alessandro},
+      booktitle={Proceedings of the Sixth AAAI Conference on Human Computation and Crowdsourcing},
+      pages={192--202},
+      year={2018},
+      organization={AAAI}
+    }
+
+- id: chen2018icwsm
+  authors: Guanliang Chen, Jie Yang, Claudia Hauff, and Geert-Jan Houben
+  url: pdf/chen2018icwsm.pdf
+  venue: AAAI Conference on Web and Social Media (ICWSM)
+  year: 2018
+  type: "full research paper"
+  highlight:
+  title: "LearningQ: A Large-scale Dataset for Educational Question Generation"
+  bib: |
+    @inproceedings{chen2018icwsm,
+      title={LearningQ: A Large-scale Dataset for Educational Question Generation},
+      author={Chen, Guanliang and Yang, Jie and Hauff, Claudia and Houben, Geert-Jan},
+      booktitle={Proceedings of the Twelfth International AAAI Conference on Web and Social Media},
+      pages={481--490},
+      year={2018},
+      organization={AAAI}
+    }
+
+- id: yang2018www
+  authors: Jie Yang, Thomas Drake, Andreas Damianou, and Yoelle Maarek
+  url: pdf/yang2018www.pdf
+  venue: The Web Conference (WWW)
+  year: 2018
+  type: "full research paper"
+  highlight:
+  title: "Leveraging Crowdsourcing Data For Deep Active Learning - An Application: Learning Intents in Alexa"
+  bib: |
+    @inproceedings{yang2018www,
+      title={Leveraging Crowdsourcing Data For Deep Active Learning - An Application: Learning Intents in Alexa},
+      author={Yang, Jie and Drake, Thomas and Damianou, Andreas and Maarek, Yoelle},
+      booktitle={The World Wide Web Conference},
+      pages={23--32},
+      year={2018},
+      organization={ACM}
+    }
+
+- id: afentoulidi2018websci
+  authors: Gregory Afentoulidi, Zoltán Szlávik, Jie Yang, and Alessandro Bozzon
+  url: pdf/afentoulidi2018websci.pdf
+  venue: ACM Conference on Web Science (WebSci)
+  year: 2018
+  type: "full research paper"
+  highlight:
+  title: "Social Gamification in Enterprise Crowdsourcing"
+  bib: |
+    @inproceedings{afentoulidi2018websci,
+      title={Social Gamification in Enterprise Crowdsourcing},
+      author={Afentoulidis, Gregory and Szl{\'a}vik, Zolt{\'a}n and Yang, Jie and Bozzon, Alessandro},
+      booktitle={Proceedings of the 10th ACM Conference on Web Science},
+      pages={135--144},
+      year={2018},
+      organization={ACM}
+    }
+
+- id: psyllidis2018access
+  authors: Achilleas Psyllidis, Jie Yang, and Alessandro Bozzon
+  url: pdf/psyllidis2018access.pdf
+  venue: IEEE Access
+  year: 2018
+  type: "journal paper"
+  highlight:
+  title: "Regionalization of Social Interactions and Points-of Interest Location Prediction with Geosocial Data"
+  bib: |
+    @article{psyllidis2018access,
+      title={Regionalization of Social Interactions and Points-of Interest Location Prediction with Geosocial Data},
+      author={Psyllidis, Achilleas and Yang, Jie and Bozzon, Alessandro},
+      journal={IEEE Access},
+      volume={6},
+      pages={34334--34353},
+      year={2018},
+      publisher={IEEE}
+    }
+
+- id: gong2018access
+  authors: Vincent Xun Gong, Jie Yang, Winnie Daamen, Alessandro Bozzon, Serge Hoogendoorn, and Geert-Jan Houben
+  url: pdf/gong2018access.pdf
+  venue: IEEE Access
+  year: 2018
+  type: "journal paper"
+  highlight:
+  title: "Using Social Media for Attendees Density Estimation in City-Scale Events"
+  bib: |
+    @article{gong2018access,
+      title={Using Social Media for Attendees Density Estimation in City-Scale Events},
+      author={Gong, Vincent X and Yang, Jie and Daamen, Winnie and Bozzon, Alessandro and Hoogendoorn, Serge and Houben, Geert-Jan},
+      journal={IEEE Access},
+      volume={6},
+      pages={36325--36340},
+      year={2018},
+      publisher={IEEE}
+    }
+
+- id: pei2017cikm
+  authors: Wenjie Pei, Jie Yang, Zhu Sun, Jie Zhang, Alessandro Bozzon, and David Tax
+  url: pdf/pei2017cikm.pdf
+  venue: ACM International Conference on Information and Knowledge Management (CIKM)
+  year: 2017
+  type: "full research paper"
+  highlight:
+  title: "Interacting Attention-Gated Recurrent Networks for Recommendation"
+  bib: |
+    @inproceedings{pei2017cikm,
+      title={Interacting Attention-Gated Recurrent Networks for Recommendation},
+      author={Pei, Wenjie and Yang, Jie and Sun, Zhu and Zhang, Jie and Bozzon, Alessandro and Tax, David MJ},
+      booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
+      pages={1459--1468},
+      year={2017},
+      organization={ACM}
+    }
+
+- id: sun2017aaai
+  authors: Zhu Sun, Jie Yang, Jie Zhang, and Alessandro Bozzon
+  url: pdf/sun2017aaai.pdf
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
+  year: 2017
+  type: "full research paper"
+  highlight:
+  title: "Exploiting both Vertical and Horizontal Dimensions of Feature Hierarchy for Effective Recommendation"
+  bib: |
+    @inproceedings{sun2017aaai,
+      title={Exploiting both Vertical and Horizontal Dimensions of Feature Hierarchy for Effective Recommendation},
+      author={Sun, Zhu and Yang, Jie and Zhang, Jie and Bozzon, Alessandro},
+      booktitle={Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence},
+      pages={189--195},
+      year={2017},
+      organization={AAAI}
+    }
+
+- id: sun2017ijcai
+  authors: Zhu Sun, Jie Yang, Jie Zhang, Alessandro Bozzon, Yu Chen, and Chi Xu
+  url: pdf/sun2017ijcai.pdf
+  venue: International Joint Conference on Artificial Intelligence (IJCAI)
+  year: 2017
+  type: "full research paper"
+  highlight:
+  title: "MRLR: Multi-level Representation Learning for Personalized Ranking in Recommendation"
+  bib: |
+    @inproceedings{sun2017ijcai,
+      title={MRLR: Multi-level Representation Learning for Personalized Ranking in Recommendation},
+      author={Sun, Zhu and Yang, Jie and Zhang, Jie and Bozzon, Alessandro and Chen, Yu and Xu, Chi},
+      booktitle={Proceedings of the 26th International Joint Conference on Artificial Intelligence},
+      pages={2807--2813},
+      year={2017}
+    }
+
+- id: gadiraju2017ht
+  authors: Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
+  url: pdf/gadiraju2017ht.pdf
+  venue: ACM Conference on Hypertext and Social Media (HT)
+  year: 2017
+  type: "full research paper"
+  highlight: "Douglas Engelbart Best Paper Award"
+  title: "Clarity is a Worthwhile Quality - On the Role of Task Clarity in Microtask Crowdsourcing"
+  bib: |
+    @inproceedings{gadiraju2017ht,
+      title={Clarity is a Worthwhile Quality - On the Role of Task Clarity in Microtask Crowdsourcing},
+      author={Gadiraju, Ujwal and Yang, Jie and Bozzon, Alessandro},
+      booktitle={Proceedings of the 28th ACM Conference on Hypertext and Social Media},
+      pages={5--14},
+      year={2017},
+      organization={ACM}
+    }
+
+- id: yang2017recsys
+  authors: Jie Yang, Zhu Sun, Alessandro Bozzon, Jie Zhang, and Martha Larson
+  url: pdf/yang2017recsys.pdf
+  venue: ACM Conference on Recommender Systems (RecSys)
+  year: 2017
+  type: "editorial contribution"
+  highlight: 
+  title: "CitRec 2017: International Workshop on Recommender Systems for Citizens"
+  bib: |
+    @inproceedings{yang2017recsys,
+      title={CitRec 2017: International Workshop on Recommender Systems for Citizens},
+      author={Yang, Jie and Sun, Zhu and Bozzon, Alessandro and Zhang, Jie and Larson, Martha},
+      booktitle={Proceedings of the Eleventh ACM Conference on Recommender Systems},
+      pages={388--389},
+      year={2017},
+      organization={ACM}
+    }
+
+- id: yang2017citrec
+  authors: Diana Nurbakova, Jie Yang, Iván Cantador, María Cortés-Cediel, and Alessandro Bozzon
+  url: pdf/yang2017citrec.pdf
+  venue: International Workshop on Recommender Systems for Citizens (CitRec)
+  year: 2017
+  type: "workshop paper"
+  highlight:
+  title: "Recommender Systems for Citizens: the CitRec'17 Workshop Manifesto"
+  bib: |
+    @inproceedings{yang2017citrec,
+      title={Recommender Systems for Citizens: the CitRec'17 Workshop Manifesto},
+      author={Yang, Jie and Cantador, Iv{\'a}n and Nurbakova, Diana and Cort{\'e}s-Cediel, Mar{\'\i}a E and Bozzon, Alessandro},
+      booktitle={Proceedings of the International Workshop on Recommender Systems for Citizens},
+      year={2017},
+      organization={ACM}
+    }
+
+- id: yang2016hcomp
+  authors: Jie Yang, Judith Redi, Gianluca Demartini, and Alessandro Bozzon
+  url: pdf/yang2016hcomp.pdf
+  venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
+  year: 2016
+  type: "full research paper"
+  highlight:
+  title: "Modeling Crowdsourcing Task Complexity"
+  bib: |
+    @inproceedings{yang2016hcomp,
+      title={Modeling Crowdsourcing Task Complexity},
+      author={Yang, Jie and Redi, Judith and Demartini, Gianluca and Bozzon, Alessandro},
+      booktitle={Proceedings of the Fourth AAAI Conference on Human Computation and Crowdsourcing},
+      pages={249--258},
+      year={2016},
+      organization={AAAI}
+    }
+
+- id: sun2016recsys
+  authors: Jie Yang, Zhu Sun, Alessandro Bozzon, and Jie Zhang
+  url: pdf/sun2016recsys.pdf
+  venue: ACM Conference on Recommender Systems (RecSys)
+  year: 2016
+  type: "full research paper"
+  highlight:
+  title: "Learning Hierarchical Feature Influence for Recommendation by Recursive Regularization"
+  bib: |
+    @inproceedings{sun2016recsys,
+      title={Learning Hierarchical Feature Influence for Recommendation by Recursive Regularization},
+      author={Yang, Jie and Sun, Zhu and Bozzon, Alessandro and Zhang, Jie},
+      booktitle={Proceedings of the 10th ACM Conference on Recommender Systems},
+      pages={51--58},
+      year={2016},
+      organization={ACM}
+    }
+
+- id: iren2016websci
+  authors: Deniz Iren, Cynthia Liem, Jie Yang, Alessandro Bozzon
+  url: pdf/iren2016websci.pdf
+  venue: ACM Conference on Web Science (WebSci)
+  year: 2016
+  type: "short research paper"
+  highlight:
+  title: "Using Social Media to Reveal Social and Collective Perspectives on Music"
+  bib: |
+    @inproceedings{iren2016websci,
+      title={Using Social Media to Reveal Social and Collective Perspectives on Music},
+      author={Iren, Deniz and Liem, Cynthia and Yang, Jie and Bozzon, Alessandro},
+      booktitle={Proceedings of the 8th ACM Conference on Web Science},
+      pages={296--300},
+      year={2016},
+      organization={ACM}
+    }
+
+- id: yang2016icwe
+  authors: Jie Yang,  Claudia Hauff, Geert-Jan Houben, and Christiaan Titos Bolivar
+  url: pdf/yang2016icwe.pdf
+  venue: International Conference on Web Engineering (ICWE)
+  year: 2016
+  type: "full research paper"
+  highlight:
+  title: "Diversity in Social Media Urban Analytics"
+  bib: |
+    @inproceedings{yang2016icwe,
+      title={Diversity in Social Media Urban Analytics},
+      author={Yang, Jie and Hauff, Claudia and Houben, Geert-Jan and Bolivar, Christiaan Titos},
+      booktitle={Proceedings of the 16th International Conference on Web Engineering},
+      pages={335--353},
+      year={2016},
+      organization={Springer}
+    }
+
+- id: dhiratara2016kdweb
+  authors: Arkka Dhiratara, Jie Yang, Alessandro Bozzon, and Geert-Jan Houben
+  url: pdf/dhiratara2016kdweb.pdf
+  venue: International Workshop on Knowledge Discovery on the Web (KDWeb)
+  year: 2016
+  type: "workshop paper"
+  highlight:
+  title: "Social Media Data Analytics for Tourism -- A Preliminary Study"
+  bib: |
+    @inproceedings{dhiratara2016kdweb,
+      title={Social Media Data Analytics for Tourism -- A Preliminary Study},
+      author={Dhiratara, Arkka and Yang, Jie and Bozzon, Alessandro and Houben, Geert-Jan},
+      booktitle={Proceedings of the 2nd International Workshop on Knowledge Discovery on the Web},
+      year={2016}
+    }
+
+- id: yang2016trustincw
+  authors: Jie Yang and Alessandro Bozzon
+  url: pdf/yang2016trustincw.pdf
+  venue: ACM Web Science Workshop on Weaving Relations of Trust in Crowd Work (TRUSTINCW@WebSci)
+  year: 2016
+  type: "workshop paper"
+  highlight: "Best Paper Award"
+  title: "On the Improvement of Quality and Reliability of Trust Cues in Micro-task Crowdsourcing"
+  bib: |
+    @article{yang2016trustincw,
+      title={On the Improvement of Quality and Reliability of Trust Cues in Micro-task Crowdsourcing},
+      author={Yang, Jie and Bozzon, Alessandro},
+      booktitle={ACM Web Science Workshop on Weaving Relations of Trust in Crowd Work},
+      year={2016}
+    }
+
+- id: yang2015umap
+  authors: Jie Yang, Alessandro Bozzon, and Geert-Jan Houben
+  url: pdf/yang2015umap.pdf
+  venue: User Modeling, Adaption and Personalization (UMAP)
+  year: 2015
+  type: "full research paper"
+  highlight:
+  title: "Harnessing Engagement for Knowledge Creation Acceleration in Collaborative Q&A Systems"
+  bib: |
+    @inproceedings{yang2015umap,
+      title={Harnessing Engagement for Knowledge Creation Acceleration in Collaborative Q\&A Systems},
+      author={Yang, Jie and Bozzon, Alessandro and Houben, Geert-Jan},
+      booktitle={International Conference on User Modeling, Adaptation, and Personalization},
+      pages={315--327},
+      year={2015},
+      organization={Springer}
+    }
+
+- id: oosterman2015comnet
+  authors: Jasper Oosterman, Jie Yang, Alessandro Bozzon, Lora Aroyo, and Geert-Jan Houben
+  url: pdf/oosterman2015comnet.pdf
+  venue: Computer Networks
+  year: 2015
+  type: "journal paper"
+  highlight:
+  title: "Crowdsourcing Visual Artwork Annotations in Cultural Heritage"
+  bib: |
+    @article{oosterman2015comnet,
+      title={Crowdsourcing Visual Artwork Annotations in Cultural Heritage},
+      author={Oosterman, Jasper and Yang, Jie and Bozzon, Alessandro and Aroyo, Lora and Houben, Geert-Jan},
+      journal={Computer Networks},
+      volume={90},
+      pages={133--149},
+      year={2015},
+      publisher={Elsevier}
+    }
+
+- id: yang2015icwe_knowledge
+  authors: Jie Yang, Alessandro Bozzon, and Geert-Jan Houben
+  url: pdf/yang2015icwe_knowledge.pdf
+  venue: International Conference on Engineering (ICWE)
+  year: 2015
+  type: "doctoral consortium paper"
+  highlight:
+  title: "Knowledge Crowdsourcing Acceleration"
+  bib: |
+    @inproceedings{yang2015icwe_ewise,
+      title={E-WISE: An Expertise-Driven Recommendation Platform for Web Question Answering Systems},
+      author={Yang, Jie and Bozzon, Alessandro and Houben, Geert-Jan},
+      booktitle={International Conference on Web Engineering},
+      pages={639--643},
+      year={2015},
+      organization={Springer}
+    }
+
+- id: yang2015icwe_ewise
+  authors: Jie Yang, Alessandro Bozzon, and Geert-Jan Houben
+  url: publications.html
+  venue: International Conference on Engineering (ICWE)
+  year: 2015
+  type: "demo paper"
+  highlight:
+  title: "E-WISE: An Expertise-Driven Recommendation Platform for Web Question Answering Systems"
+  bib: |
+    @inproceedings{yang2015icwe_ewise,
+      title={E-WISE: An Expertise-Driven Recommendation Platform for Web Question Answering Systems},
+      author={Yang, Jie and Bozzon, Alessandro and Houben, Geert-Jan},
+      booktitle={Proceedings of the 15th International Conference on Engineering},
+      pages={691--694},
+      year={2015},
+      organization={Springer}
+    }
+
+- id: silvestri2015kdweb
+  authors: Arkka Dhiratara, Jie Yang, Alessandro Bozzon, and Geert-Jan Houben
+  url: pdf/silvestri2015kdweb.pdf
+  venue: International Workshop on Knowledge Discovery on the Web (KDWeb)
+  year: 2015
+  type: "workshop paper"
+  highlight:
+  title: "Linking Accounts across Social Networks: the Case of StackOverflow, Github and Twitter"
+  bib: |
+    @inproceedings{silvestri2015kdweb,
+      title={Linking Accounts across Social Networks: the Case of StackOverflow, Github and Twitter},
+      author={Silvestri, Giuseppe and Yang, Jie and Bozzon, Alessandro and Tagarelli, Andrea},
+      booktitle={Proceedings of the 1st International Workshop on Knowledge Discovery on the Web},
+      pages={41--52},
+      year={2015}
+    }
+
+- id: yang2014ht
+  authors: Jie Yang, Claudia Hauff, Alessandro Bozzon, and Geert-Jan Houben
+  url: pdf/yang2014ht.pdf
+  venue: ACM Conference on Hypertext and Social Media (HT)
+  year: 2014
+  type: "full research paper"
+  highlight:
+  title: "Asking the Right Question in Collaborative Q&A Systems"
+  bib: |
+    @inproceedings{yang2014ht,
+      title={Asking the Right Question in Collaborative Q\&A Systems},
+      author={Yang, Jie and Hauff, Claudia and Bozzon, Alessandro and Houben, Geert-Jan},
+      booktitle={Proceedings of the 25st ACM Conference on Hypertext and Social Media},
+      pages={179--189},
+      year={2014},
+      organization={ACM}
+    }
+
+- id: yang2014umap
+  authors: Jie Yang, Ke Tao, Alessandro Bozzon, and Geert-Jan Houben
+  url: pdf/yang2014umap.pdf
+  venue: User Modeling, Adaption and Personalization (UMAP)
+  year: 2014
+  type: "full research paper"
+  highlight:
+  title: "Sparrows and Owls: Characterisation of Expert Behaviour in StackOverflow"
+  bib: |
+    @inproceedings{yang2014umap,
+      title={Sparrows and Owls: Characterisation of Expert Behaviour in StackOverflow},
+      author={Yang, Jie and Tao, Ke and Bozzon, Alessandro and Houben, Geert-Jan},
+      booktitle={International Conference on User Modeling, Adaptation, and Personalization},
+      pages={266--277},
+      year={2014},
+      organization={Springer}
+    }
+
+- id: long2014physiological
+  authors: Xi Long, Jie Yang, Tim Weysen, Reinder Haakma, Jerome Foussier, Pedro Fonseca, and Ronald M. Aarts
+  url: publications.html
+  venue: Physiological Measurement
+  year: 2014
+  type: "journal paper"
+  highlight:
+  title: "Measuring Dissimilarity Between Respiratory Effort Signals based on Uniform Scaling for Sleep Staging"
+  bib: |
+    @article{long2014physiological,
+      title={Measuring Dissimilarity Between Respiratory Effort Signals based on Uniform Scaling for Sleep Staging},
+      author={Long, Xi and Yang, Jie and Weysen, Tim and Haakma, Reinder and Foussier, J{\'e}r{\^o}me and Fonseca, Pedro and Aarts, Ronald M},
+      journal={Physiological measurement},
+      volume={35},
+      number={12},
+      pages={2529},
+      year={2014},
+      publisher={IOP Publishing}
+    }
+
+- id: lam2013idea
+  authors: Hoang Thanh Lam, Toon Calders, Jie Yang, Fabian Moerchen, and Dmitriy Fradkin
+  url: pdf/Lam2013IDEA.pdf
+  venue: ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA@KDD)
+  year: 2013
+  type: "workshop paper"
+  highlight:
+  title: "Zips: Mining Compressing Sequential Patterns in Streams"
+  bib: |
+    @inproceedings{lam2013idea,
+      title={Zips: Mining compressing sequential patterns in streams},
+      author={Lam, Hoang Thanh and Calders, Toon and Yang, Jie and M{\"o}rchen, Fabian and Fradkin, Dmitriy},
+      booktitle={Proceedings of the ACM SIGKDD Workshop on Interactive Data Exploration and Analytics},
+      pages={54--62},
+      year={2013},
+      organization={ACM}
+    }

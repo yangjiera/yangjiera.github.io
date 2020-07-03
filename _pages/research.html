@@ -1,0 +1,26 @@
+---
+title: "Research"
+permalink: /research.html
+author_profile: true
+---
+
+{% include base_path %}
+
+<h1>Research</h1>
+
+<!-- I design human-centered machine learning systems that integrate human intelligence for more generalizable, interpretable, and controllable machine learning. -->
+I am currently working developing XXX, a human-centered, knowledge-driven, reasoning-based system for detecting, characterizing, and mitigating unknown unknowns in machine learning. This effort evloves from several interweaved research topics I have worked on in the past: 1) accelerating crowd knowledge creation, 2) machine learning from small, sparse, and noisy data, and 3) integrating human computation and machine learning. 
+
+<br>
+<br>
+My research is motivated by real-world tasks in natural language processing and recommender systems and finds application across a variety of domains, including but not limited to health, finance, mobility, education, and retail. 
+
+<br/>
+<br/>
+<h1>Projects</h1>
+{% for data_col in site.data.projects %}
+<h3>{{ data_col.name }}</a></h3>
+{% for entry in data_col.data %}
+<li><a href="{{ entry.url }}">{{ entry.work }}</a></li>
+{% endfor %}
+{% endfor %}

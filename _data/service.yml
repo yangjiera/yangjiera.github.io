@@ -1,0 +1,44 @@
+- role: Senior Program Committee
+  data:
+  - name: "ACM Conference on Information and Knowledge Management (CIKM), 2020"
+- role: Program Committee
+  data:
+  - name: "International Joint Conference on Artificial Intelligence (IJCAI): 2020"
+  - name: "AAAI Conference on Artificial Intelligence (AAAI): 2020"
+  - name: "AAAI Conference on Human Computation and Crowdsourcing (HCOMP): 2019, 2018"
+  - name: "AAAI Conference on Web and Social Media (ICWSM): 2020, 2019, 2018" 
+  - name: "Annual Conference of the Association for Computational Linguistics (ACL): 2020"
+  - name: "Empirical Methods in Natural Language Processing (EMNLP): 2020"
+  - name: "International Conference on Computational Linguistics (COLING): 2020"
+  - name: "ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR): 2020"
+  - name: "ACM International Conference on Web Search and Data Mining (WSDM): 2021"
+  - name: "ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR): 2020, 2019"
+  - name: "ACM International Conference on Intelligent User Interfaces (IUI): 2020, 2019, 2018"
+  - name: "The Web Conference (WWW): 2018"
+  - name: "Automated Knowledge Base Construction (AKBC): 2020, 2019"
+  - name: "Extended Semantic Web Conference (ESWC): 2019"
+  - name: "ACM Conference on Web Science (WebSci): 2020"
+  - name: "ACM Conference on Hypertext and Social Media (HT): 2020, 2019"
+  - name: "ACM SIGAPP Symposium On Applied Computing (SAC): 2020, 2019, 2018"
+  - name: "International Conference on Social Informatics (SocInfo): 2020, 2019"
+  - name: "International Workshop on Augmenting Intelligence with Humans-in-the-Loop (HumL): 2018"
+  - name: "Recommendation and Advertising in Online Social Networks (READNet): 2019"
+- role: Journal Editor
+  data:
+  - name: "Journal of Human Computation (JHC)"
+- role: Journal Referee
+  data:
+  - name: "International Journal of Human-Computer Studies (IJCHS)"
+  - name: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+  - name: "ACM Transactions on Information Systems (TOIS)"
+  - name: "Information Systems (IS)"
+  - name: "Journal of Web Science (JWS)"
+  - name: "Journal of Web Engineering (JWE)"
+  - name: "Computer Networks (ComNet)"
+  - name: "Electronic Commerce Research and Applications (ECRA)"
+- role: Mentor at Doctorial Consortium
+  data:
+  - name: "AAAI Conference on Human Computation and Crowdsourcing (HCOMP): 2020"
+- role: Session Chair
+  data:
+  - name: "“User Modeling, Interaction and Experience on the Web” at WWW: 2018"

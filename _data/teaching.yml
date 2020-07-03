@@ -1,0 +1,10 @@
+- year: 2020-2021
+  data:
+  - name: IN4252 Web Science & Engineering
+    description: The course explains the concept of Web-based Information System and thus concentrates on a large class of modern information systems that use the web and web data in one way or another. The course considers methods and techniques for the design and development of web-based information systems, and as a consequence it gives an insight into the state of the art of the research area of Web Engineering.
+    time: 1st and 2nd quarters
+    url: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=49120
+  - name: CS4145 Crowd Computing
+    description: Crowd computing studies how large groups of people can solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. The objective of the Crowd Computing course is to introduce the scientific and technical underpinnings of crowd computing, and to investigate how it can be used for computer science applications (e.g., information retrieval, machine learning, next-generation interfaces, and data mining) and for real world applications (e.g., cultural heritage preservation, online knowledge creation, smart cities, etc.)
+    time: 4th quarter
+    url: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132
