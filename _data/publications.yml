@@ -15,6 +15,25 @@
       year={2020},
       organization={IEEE}
     }
+
+- id: sun2020recsys
+  authors: Zhu Sun, Di Yu, Hui Fang, Jie Yang, Xinghua Qu, Jie Zhang, and Cong Geng
+  url: pdf/sun2020recsys.pdf
+  venue: ACM Conference on Recommender Systems (RecSys)
+  year: 2020
+  type: "reproducibility track"
+  highlight:
+  title: "Are We Evaluating Rigorously? Benchmarking Recommendationfor Reproducible Evaluation and Fair Comparison"
+  bib: |
+    @inproceedings{sun2020recsys,
+      title={Are We Evaluating Rigorously? Benchmarking Recommendationfor Reproducible Evaluation and Fair Comparison},
+      author={Sun, Zhu and Yu, Di and Fang, Hui and Yang, Jie and Qu, Xinghua and Zhang, Jie and Geng, Cong},
+      booktitle={ACM Conference on Recommender Systems},
+      pages={to appear},
+      year={2020},
+      organization={ACM}
+    }
+
 - id: zhang2020sigir
   authors: Rongting Zhang and Jie Yang
   url: pdf/zhang2020sigir.pdf
