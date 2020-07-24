@@ -23,10 +23,10 @@
   year: 2020
   type: "reproducibility track"
   highlight:
-  title: "Are We Evaluating Rigorously? Benchmarking Recommendationfor Reproducible Evaluation and Fair Comparison"
+  title: "Are We Evaluating Rigorously? Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison"
   bib: |
     @inproceedings{sun2020recsys,
-      title={Are We Evaluating Rigorously? Benchmarking Recommendationfor Reproducible Evaluation and Fair Comparison},
+      title={Are We Evaluating Rigorously? Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison},
       author={Sun, Zhu and Yu, Di and Fang, Hui and Yang, Jie and Qu, Xinghua and Zhang, Jie and Geng, Cong},
       booktitle={ACM Conference on Recommender Systems},
       pages={to appear},
