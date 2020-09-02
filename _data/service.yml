@@ -4,7 +4,7 @@
 - role: Program Committee
   data:
   - name: "International Joint Conference on Artificial Intelligence (IJCAI): 2020"
-  - name: "AAAI Conference on Artificial Intelligence (AAAI): 2020"
+  - name: "AAAI Conference on Artificial Intelligence (AAAI): 2021, 2020"
   - name: "AAAI Conference on Human Computation and Crowdsourcing (HCOMP): 2019, 2018"
   - name: "AAAI Conference on Web and Social Media (ICWSM): 2020, 2019, 2018" 
   - name: "Annual Conference of the Association for Computational Linguistics (ACL): 2020"
@@ -28,7 +28,7 @@
   - name: "Journal of Human Computation (JHC)"
 - role: Journal Referee
   data:
-  - name: "International Journal of Human-Computer Studies (IJCHS)"
+  - name: "International Journal of Human-Computer Studies (IJHCS)"
   - name: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
   - name: "ACM Transactions on Information Systems (TOIS)"
   - name: "Information Systems (IS)"

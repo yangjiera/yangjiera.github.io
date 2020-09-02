@@ -1,5 +1,9 @@
 - year: 2020-2021
   data:
+  - name: CS4305TU Applied Machine Learning
+    description: Machine Learning is increasingly important to fields outside of traditional Artificial Intelligence and Computer Science, proving a powerful technique to study data from different domains. This course aims to give students from different technical backgrounds a better understanding of a range of machine learning techniques. During the course, the focus lies on understanding how to use these different techniques, rather than on trying to improve the techniques themselves. To do this, this course will focus on demonstrating how machine learning can be used in different domains and for different types of data.
+    time: 1st quarter
+    url: 
   - name: IN4252 Web Science & Engineering
     description: The main subject of the course is the Web, and in particular Web Data. The course considers developments in the Web and the (big) data management challenges associated to it. In particular, the course considers the relationship between people and technology that come with the Web and Web-based information systems. The course considers the Web both from an engineering perspective as well as from an analytical perspective.
     time: 1st and 2nd quarters
@@ -8,3 +12,4 @@
     description: Crowd computing studies how large groups of people can solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. The objective of the Crowd Computing course is to introduce the scientific and technical underpinnings of crowd computing, and to investigate how it can be used for computer science applications (e.g., information retrieval, machine learning, next-generation interfaces, and data mining) and for real world applications (e.g., cultural heritage preservation, online knowledge creation, smart cities, etc.)
     time: 4th quarter
     url: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132
+  
