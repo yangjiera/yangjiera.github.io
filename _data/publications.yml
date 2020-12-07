@@ -1,7 +1,7 @@
 - id: gadiraju2020what,
   authors: Ujwal Gadiraju, and Jie Yang
   url: pdf/gadiraju2020what.pdf
-  venue: Neurips Workshop on Crowd Science (CSW@Neurips)
+  venue: NeurIPS Workshop on Crowd Science (CSW@NeurIPS)
   year: 2020
   type: "position paper"
   highlight:
@@ -10,7 +10,7 @@
     @inproceedings{gadiraju2020what,
       title={What Can Crowd Computing Do for the Next Generation of AI Technology? },
       author={Gadiraju, Ujwal and Yang, Jie},
-      booktitle={Neurips Workshop on Crowd Science},
+      booktitle={NeurIPS Workshop on Crowd Science},
       pages={7-13},
       year={2020},
       organization={CEUR Workshop Proceedings}
