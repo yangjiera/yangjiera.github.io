@@ -1,3 +1,20 @@
+- id: gadiraju2020what,
+  authors: Ujwal Gadiraju, and Jie Yang
+  url: pdf/yang2020tkde.pdf
+  venue: Neurips Workshop on Crowd Science (CSW@Neurips)
+  year: 2020
+  type: "position paper"
+  highlight:
+  title: "What Can Crowd Computing Do for the Next Generation of AI Technology?"
+  bib: |
+    @inproceedings{gadiraju2020what,
+      title={What Can Crowd Computing Do for the Next Generation of AI Technology? },
+      author={Gadiraju, Ujwal and Yang, Jie},
+      booktitle={Neurips Workshop on Crowd Science},
+      pages={7-13},
+      year={2020},
+      organization={CEUR Workshop Proceedings}
+    }
 - id: yang2020tkde
   authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
   url: pdf/yang2020tkde.pdf
@@ -18,7 +35,7 @@
 
 - id: sun2020recsys
   authors: Zhu Sun, Di Yu, Hui Fang, Jie Yang, Xinghua Qu, Jie Zhang, and Cong Geng
-  url: pdf/sun2020recsys.pdf
+  url: https://dl.acm.org/doi/abs/10.1145/3383313.3412489
   venue: ACM Conference on Recommender Systems (RecSys)
   year: 2020
   type: "reproducibility track"
