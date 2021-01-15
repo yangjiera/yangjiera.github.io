@@ -1,3 +1,57 @@
+- id: balayn2021www
+  authors: Agathe Balayn, Panagiotis Soilis, Christoph Lofi, Jie Yang, and Alessandro Bozzon
+  url: pdf/balayn2021www.pdf
+  venue: The Web Conference (WWW)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: "What do You Mean? Interpreting Image Classification with Crowdsourced Concept Extraction and Analysis"
+  bib: |
+    @inproceedings{balayn2021www,
+      title={What do You Mean? Interpreting Image Classification with Crowdsourced Concept Extraction and Analysis},
+      author={Balayn, Agathe and Soilis, Panagiotis and Lofi, Christoph and Yang, Jie and Bozzon, Alessandro},
+      booktitle={The World Wide Web Conference},
+      pages={to appear},
+      year={2021},
+      organization={ACM}
+    }
+
+- id: arous2021www
+  authors: Ines Arous, Jie Yang, Mourad Khayati, and Philippe Cudré-Mauroux
+  url: pdf/arous2021www.pdf
+  venue: The Web Conference (WWW)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: "Peer Grading the Peer Reviews: A Dual-Role Approach for Lightening Scholarly Paper Review Processes"
+  bib: |
+    @inproceedings{arous2020www,
+      title={Peer Grading the Peer Reviews: A Dual-Role Approach for Lightening Scholarly Paper Review Processes},
+      author={Arous, Ines and Yang, Jie and Khayati, Mourad and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={The World Wide Web Conference},
+      pages={to appear},
+      year={2021},
+      organization={ACM}
+    }
+
+- id: arous2021aaai
+  authors: Ines Arous, Ljiljana Dolamic, Jie Yang, Akansha Bhardwaj, Giuseppe Cuccu, and Philippe Cudré-Mauroux
+  url: pdf/bhardwaj2020aaai.pdf
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: " MARTA: Leveraging Human Rationales for Explainable Text Classification"
+  bib: |
+    @inproceedings{bhardwaj2020aaai,
+      title={ MARTA: Leveraging Human Rationales for Explainable Text Classification},
+      author={Arous, Ines and Dolamic, Ljiljana and Yang, Jie and Bhardwaj, Akansha and Cuccu, Giuseppe and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
+      pages={to appear},
+      year={2021},
+      organization={AAAI}
+    }
+
 - id: gadiraju2020what,
   authors: Ujwal Gadiraju, and Jie Yang
   url: pdf/gadiraju2020what.pdf
@@ -15,6 +69,7 @@
       year={2020},
       organization={CEUR Workshop Proceedings}
     }
+
 - id: yang2020tkde
   authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
   url: pdf/yang2020tkde.pdf
@@ -28,7 +83,6 @@
       title={LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks},
       author={Yang, Dingqi and Qu, Bingqing and Yang, Jie and Cudr{\'e}-Mauroux, Philippe},
       booktitle={IEEE Transactions on Knowledge and Data Engineering},
-      pages={to appear},
       year={2020},
       organization={IEEE}
     }
@@ -46,7 +100,7 @@
       title={Are We Evaluating Rigorously? Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison},
       author={Sun, Zhu and Yu, Di and Fang, Hui and Yang, Jie and Qu, Xinghua and Zhang, Jie and Geng, Cong},
       booktitle={ACM Conference on Recommender Systems},
-      pages={to appear},
+      pages={23--32},
       year={2020},
       organization={ACM}
     }
@@ -64,7 +118,7 @@
       title={Web-to-Voice Transfer for Product Recommendation on Voice},
       author={Zhang, Rongting and Yang, Jie},
       booktitle={Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
-      pages={to appear},
+      pages={1221--1230},
       year={2020},
       organization={ACM}
     }
@@ -82,7 +136,7 @@
       title={OpenCrowd: A Human-AI Collaborative Approach for Finding Social Influencers via Open-Ended Answers Aggregation},
       author={Arous, Ines and Yang, Jie and Khayati, Mourad and Cudr{\'e}-Mauroux, Philippe},
       booktitle={The World Wide Web Conference},
-      pages={to appear},
+      pages={1851--1862},
       year={2020},
       organization={ACM}
     }
@@ -100,7 +154,7 @@
       title={The Role of Attributes in Product Quality Comparisons},
       author={Moraes, Felipe and Yang, Jie and Zhang, Rongting and Murdock, Vanessa},
       booktitle={Proceedings of the Fifth ACM SIGIR Conference on Human Information Interaction & Retrieval},
-      pages={to appear},
+      pages={253--262},
       year={2020},
       organization={ACM}
     }
@@ -118,7 +172,7 @@
       title={Structured Probabilistic End-to-End Learning from Crowds},
       author={Chen, Zhijun and Wang, Huimin and Sun, Hailong and Chen, Pengpeng and Han, Tao and Liu, Hudong and Yang, Jie},
       booktitle={Proceedings of the 29th International Joint Conference on Artificial Intelligence},
-      pages={to appear},
+      pages={1512--1518},
       year={2020}
     }
 
@@ -135,7 +189,7 @@
       title={A Human-AI Loop Approach for Joint Keyword Discovery and Expectation Estimation in Micropost Event Detection},
       author={Bhardwaj, Akansha and Yang, Jie and Cudr{\'e}-Mauroux, Philippe},
       booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
-      pages={to appear},
+      pages={2451--2458},
       year={2020},
       organization={AAAI}
     }
