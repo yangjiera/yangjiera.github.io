@@ -36,7 +36,7 @@
 
 - id: arous2021aaai
   authors: Ines Arous, Ljiljana Dolamic, Jie Yang, Akansha Bhardwaj, Giuseppe Cuccu, and Philippe Cudré-Mauroux
-  url: pdf/bhardwaj2020aaai.pdf
+  url: pdf/arous2021aaai.pdf
   venue: AAAI Conference on Artificial Intelligence (AAAI)
   year: 2021
   type: "full research paper"
@@ -44,7 +44,7 @@
   title: " MARTA: Leveraging Human Rationales for Explainable Text Classification"
   bib: |
     @inproceedings{bhardwaj2020aaai,
-      title={ MARTA: Leveraging Human Rationales for Explainable Text Classification},
+      title={MARTA: Leveraging Human Rationales for Explainable Text Classification},
       author={Arous, Ines and Dolamic, Ljiljana and Yang, Jie and Bhardwaj, Akansha and Cuccu, Giuseppe and Cudr{\'e}-Mauroux, Philippe},
       booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
       pages={to appear},
