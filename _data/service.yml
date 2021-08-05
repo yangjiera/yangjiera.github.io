@@ -28,6 +28,7 @@
 - role: Journal Editor
   data:
   - name: "Journal of Human Computation (JHC)"
+  - name: "Human-Centered AI: Crowd Computing" at "Frontiers in AI & BigData"
 - role: Journal Referee
   data:
   - name: "International Journal of Human-Computer Studies (IJHCS)"
