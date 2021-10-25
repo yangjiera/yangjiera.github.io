@@ -1,12 +1,13 @@
 - title: "ARCH: Know What Your Machine Doesn't Know"
   data:
-  - name: AiTech, May 2021
-  - name: ILT, Ministry of Infrastructure an Water Management, May 2021
+  - name: CMSA, Harvard, October 2021
+  - name: AiTech, TU Delft, May 2021
+  - name: ILT, Ministry of Infrastructure and Water Management, May 2021
 - title: "Integrating Human Computation with Machine Learning"
   data:
-  - name: Amazon Alexa Shopping, June 2019
+  - name: Alexa Shopping, Amazon, June 2019
   - name: Wikimedia Foundation, May 2020
 - title: "Debugging Noisy Training Data of Machine Learning Systems"
   data:
-  - name: Amazon Sagemaker, September 2019
-  - name: Amazon Alexa Shopping, April 2019
+  - name: Sagemaker, Amazon, September 2019
+  - name: Alexa Shopping, Amazon April 2019
