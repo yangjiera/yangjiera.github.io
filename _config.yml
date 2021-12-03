@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Yang / TU Delft"
+title                    : "Jie Yang @ TU Delft"
 title_separator          : "-"
 name                     : &name "Jie Yang"
 description              : &description "personal description"

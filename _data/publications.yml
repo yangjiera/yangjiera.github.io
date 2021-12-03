@@ -1,3 +1,23 @@
+- id: balayn2021tsc
+  authors: Agathe Balayn, Jie Yang, Zoltan Szlavik, and Alessandro Bozzon
+  url: pdf/balayn2021tsc.pdf
+  venue: ACM Transactions on Social Computing (TSC)
+  year: 2021
+  type: "journal paper"
+  highlight:
+  title: "Automatic Identification of Harmful, Aggressive, Abusive, and Offensive Language on the Web: A Survey of Technical Biases Informed by Psychology Literature"
+  bib: |
+    @article{balayn2021tsc,
+      title={Automatic Identification of Harmful, Aggressive, Abusive, and Offensive Language on the Web: A Survey of Technical Biases Informed by Psychology Literature},
+      author={Balayn, Agathe and Yang, Jie and Szlavik, Zoltan and Bozzon, Alessandro},
+      booktitle={ACM Transactions on Social Computing},
+      volume={4},
+      number={3},
+      pages={1--56},
+      year={2021},
+      publisher={ACM}
+    }
+
 - id: balayn2021www
   authors: Agathe Balayn, Panagiotis Soilis, Christoph Lofi, Jie Yang, and Alessandro Bozzon
   url: pdf/balayn2021www.pdf
@@ -11,9 +31,79 @@
       title={What do You Mean? Interpreting Image Classification with Crowdsourced Concept Extraction and Analysis},
       author={Balayn, Agathe and Soilis, Panagiotis and Lofi, Christoph and Yang, Jie and Bozzon, Alessandro},
       booktitle={The World Wide Web Conference},
-      pages={to appear},
+      pages={1937--1948},
       year={2021},
       organization={ACM}
+    }
+
+- id: balayn2021hcomp
+  authors: Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, Ujwal Gadiraju
+  url: pdf/balayn2021hcomp.pdf
+  venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
+  year: 2021
+  type: "demo paper"
+  highlight: "Best Demo Award"
+  title: "FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge"
+  bib: |
+    @inproceedings{balayn2021hcomp,
+      title={FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge},
+      author={Balayn, Agathe and He, Gaole and Yang, Jie and Gadiraju, Ujwal},
+      booktitle={Proceedings of the AAAI Conference on Human Computation and Crowdsourcing},
+      year={2021},
+      organization={AAAI}
+    }
+
+- id: sayin2021hcomp
+  authors: Burcu Sayin, Jie Yang, Andrea Passerini, and Fabio Casati
+  url: pdf/sayin2021hcomp.pdf
+  venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
+  year: 2021
+  type: "blue sky idea paper"
+  highlight: 1st Prize Blue Sky Ideas
+  title: "The Science of Rejection: A Research Area for Human Computation"
+  bib: |
+    @inproceedings{sayin2021hcomp,
+      title={The Science of Rejection: A Research Area for Human Computation},
+      author={Sayin, Burcu and Yang, Jie and Passerini, Andrea and Casati, Fabio},
+      booktitle={Proceedings of the AAAI Conference on Human Computation and Crowdsourcing},
+      year={2021},
+      organization={AAAI}
+    }
+
+- id: sayin2021icws
+  authors: Burcu Sayin, Evgeny Krivosheev, Jorge Ramírez, Fabio Casati, Ekaterina Taran, Veronika Malanina, and Jie Yang
+  url: pdf/sayin2021icws.pdf
+  venue: IEEE International Conference on Web Services (ICWS)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: "Crowd-Powered Hybrid Classification Services: Calibration is all you need"
+  bib: |
+    @inproceedings{sayin2021icws,
+      title={Crowd-Powered Hybrid Classification Services: Calibration is all you need},
+      author={Sayin, Burcu and Krivosheev, Evgeny and and Ramírez, Jorge and Casati, Fabio and Taran, Ekaterina and Malanina, Veronika and Yang, Jie},
+      booktitle={Proceedings of the 2021 IEEE International Conference on Web Services},
+      pages={42--50},
+      year={2021},
+      organization={IEEE}
+    }
+
+- id: sayin2021air
+  authors: Burcu Sayin, Evgeny Krivosheev, Jie Yang, Andrea Passerini, and Fabio Casati
+  url: pdf/sayin2021air.pdf
+  venue: Artificial Intelligence Review
+  year: 2021
+  type: "journal paper"
+  highlight:
+  title: "A review and experimental analysis of active learning over crowdsourced data"
+  bib: |
+    @article{sayin2021air,
+      title={A review and experimental analysis of active learning over crowdsourced data},
+      author={Sayin, Burcu and Krivosheev, Evgeny and Yang, Jie and Passerini, Andrea and Casati, Fabio},
+      booktitle={Artificial Intelligence Review},
+      pages={1--23},
+      year={2021},
+      publisher={Springer}
     }
 
 - id: arous2021www
@@ -29,7 +119,7 @@
       title={Peer Grading the Peer Reviews: A Dual-Role Approach for Lightening Scholarly Paper Review Processes},
       author={Arous, Ines and Yang, Jie and Khayati, Mourad and Cudr{\'e}-Mauroux, Philippe},
       booktitle={The World Wide Web Conference},
-      pages={to appear},
+      pages={1916--1927},
       year={2021},
       organization={ACM}
     }
@@ -43,14 +133,118 @@
   highlight:
   title: " MARTA: Leveraging Human Rationales for Explainable Text Classification"
   bib: |
-    @inproceedings{bhardwaj2020aaai,
+    @inproceedings{arous2021aaai,
       title={MARTA: Leveraging Human Rationales for Explainable Text Classification},
       author={Arous, Ines and Dolamic, Ljiljana and Yang, Jie and Bhardwaj, Akansha and Cuccu, Giuseppe and Cudr{\'e}-Mauroux, Philippe},
       booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
-      pages={to appear},
+      pages={5868--5876},
       year={2021},
       organization={AAAI}
     }
+
+- id: samiotis2021hcomp
+  authors: Ioannis Petros Samiotis, Sihang Qiu, Christoph Lofi, Jie Yang, Ujwal Gadiraju, and Alessandro Bozzon
+  url: pdf/samiotis2021hcomp.pdf
+  venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: "Exploring the Music Perception Skills of Crowd Workers"
+  bib: |
+    @inproceedings{samiotis2021hcomp,
+      title={Exploring the Music Perception Skills of Crowd Workers},
+      author={Samiotis, Ioannis Petros and Qiu, Sihang and Lofi, Christoph and Yang, Jie and Gadiraju, Ujwal and Bozzon, Alessandro},
+      booktitle={Proceedings of the AAAI Conference on Human Computation and Crowdsourcing},
+      volume={9},
+      pages={108--119},
+      year={2021},
+      organization={AAAI}
+    }
+
+- id: najafian2021ht
+  authors: Shabnam Najafian, Tim Draws, Francesco Barile, Marko Tkalcic, Jie Yang, and Nava Tintarev
+  url: pdf/najafian2021ht.pdf
+  venue: ACM Conference on Hypertext and Social Media (HT)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: "Exploring User Concerns about Disclosing Location and Emotion Information in Group Recommendations"
+  bib: |
+    @inproceedings{najafian2021ht,
+      title={Exploring User Concerns about Disclosing Location and Emotion Information in Group Recommendations},
+      author={Najafian, Shabnam and Draws, Tim and Barile, Francesco and Tkalcic, Marko and Yang, Jie and Tintarev, Nava},
+      booktitle={Proceedings of the 32nd ACM Conference on Hypertext and Social Media},
+      pages={155--164},
+      year={2021},
+      organization={ACM}
+    }
+
+- id: hoogland2021hcomp
+  authors: Pavel Hoogland, Margje Schuur, Piet van Hoffen, Jasper van Vliet, Oana Inel, Jie Yang
+  url: pdf/hoogland2021hcomp.pdf
+  venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
+  year: 2021
+  type: "WIP paper"
+  highlight:
+  title: "Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors"
+  bib: |
+    @inproceedings{hoogland2021hcomp,
+      title={Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors},
+      author={Hoogland, Pavel and Schuur, Margje and van Hoffen, Piet and van Vliet, Jasper and Yang, Jie},
+      booktitle={AAAI Conference on Human Computation and Crowdsourcing},
+      year={2021},
+      organization={AAAI}
+    }
+
+- id: zlatkute2021hcomp
+  authors: Emilija Zlatkute, Sihang Qiu, Jie Yang, Ujwal Gadiraju
+  url: pdf/zlatkute2021hcomp.pdf
+  venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
+  year: 2021
+  type: "WIP paper"
+  highlight:
+  title: "The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents"
+  bib: |
+    @inproceedings{zlatkute2021hcomp,
+      title={The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents},
+      author={Zlatkute, Emilija and Qiu, Sihang and Yang, Jie and Gadiraju, Ujwal},
+      booktitle={AAAI Conference on Human Computation and Crowdsourcing},
+      year={2021},
+      organization={AAAI}
+    }
+
+- id: liu2021sensys
+  authors: Hao Liu, Hanting Ye, Jie Yang, Qing Wang
+  url: pdf/liu2021sensys.pdf
+  venue: ACM Conference on Embedded Networked Sensor Systems (SenSys)
+  year: 2021
+  type: "workshop paper"
+  highlight:
+  title: "Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning"
+  bib: |
+    @inproceedings{liu2021sensys,
+      title={Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning},
+      author={Liu, Hao and Ye, Hanting and Yang, Jie and Wang, Qing},
+      booktitle={Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys)},
+      pages={478--484},
+      year={2021},
+      organization={ACM}
+    }
+
+- id: rahmani2021bcd
+  authors: Hossein A Rahmani and Jie Yang
+  url: pdf/rahmani2021bcd.pdf
+  venue: CSCW21 Workshop - Investigating and Mitigating Biases in Crowdsourced Data
+  year: 2021
+  type: "workshop paper"
+  highlight:
+  title: "Demographic Biases of Crowd Workers in Key Opinion Leaders Finding"
+  bib: |
+    @inproceedings{rahmani2021bcd,
+      title={Demographic Biases of Crowd Workers in Key Opinion Leaders Finding},
+      author={Rahmani, Hossein A and Yang, Jie},
+      booktitle={CSCW21 Workshop - Investigating and Mitigating Biases in Crowdsourced Data}
+    }  
 
 - id: gadiraju2020what,
   authors: Ujwal Gadiraju, and Jie Yang
@@ -65,7 +259,7 @@
       title={What Can Crowd Computing Do for the Next Generation of AI Technology? },
       author={Gadiraju, Ujwal and Yang, Jie},
       booktitle={NeurIPS Workshop on Crowd Science},
-      pages={7-13},
+      pages={7--13},
       year={2020},
       organization={CEUR Workshop Proceedings}
     }
@@ -75,11 +269,11 @@
   url: pdf/yang2020tkde.pdf
   venue: IEEE Transactions on Knowledge and Data Engineering (TKDE)
   year: 2020
-  type: "full research paper"
+  type: "journal paper"
   highlight:
   title: "LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks"
   bib: |
-    @inproceedings{yang2020tkde,
+    @article{yang2020tkde,
       title={LBSN2Vec++: Heterogeneous Hypergraph Embedding for Location-Based Social Networks},
       author={Yang, Dingqi and Qu, Bingqing and Yang, Jie and Cudr{\'e}-Mauroux, Philippe},
       booktitle={IEEE Transactions on Knowledge and Data Engineering},

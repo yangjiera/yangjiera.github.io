@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 <h1>Recent Talks</h1>
 {% for data_col in site.data.talks %}
-"{{ data_col.title }}"
+<b>"{{ data_col.title }}"</b>
     {% for entry in data_col.data %}
 	<li>{{ entry.name }} </li>
 	{% endfor %}
