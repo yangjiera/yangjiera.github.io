@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>Current PhD Students</h1>
+<h1>PhD Students</h1>
+
+<h2>Current</h2>
 
 
 {% for entry in site.data.people %}
@@ -16,18 +18,16 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
-<br>
 
-<h1>Visiting PhD Students</h1>
+<h2>Visiting</h2>
 {% for entry in site.data.people %}
 {% if entry.type == "Visiting PhD Students" %}
 <li>{{ entry.name }} ({{ entry.where }})</li>
 {% endif %}
 {% endfor %}
 
-<br>
 
-<h1>Long-term Collaborating PhD Students</h1>
+<h2>Long-term Collaboration</h2>
 {% for entry in site.data.people %}
 {% if entry.type == "Collaborating PhD Students" %}
 <li>{{ entry.name }} ({{ entry.where }})</li>
