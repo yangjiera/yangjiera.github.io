@@ -1,13 +1,18 @@
 # main links links
 main:
   - title: "Research"
-    url: /research.html 
+    url: /project.html 
 
   - title: "Publications"
-    url: /publications.html 
+    url: /paper.html 
 
+  - title: "Team"
+    url: /people.html
+    
   - title: "Education"
     url: /education.html
 
   - title: "Activities"
     url: /activities.html
+
+  

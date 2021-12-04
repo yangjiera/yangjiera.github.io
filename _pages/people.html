@@ -1,17 +1,35 @@
 ---
 layout: single
-title: "People"
+title: "Team"
 permalink: /people.html
 author_profile: true
 ---
 
 {% include base_path %}
-<h1>Teaching</h1>
 
-{% for data_col in site.data.teaching %}
-{% for entry in data_col.data %}
-<h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
-<h4>{{entry.time}} </h4>
-{{ entry.description }}
+<h1>Current PhD Students</h1>
+
+
+{% for entry in site.data.people %}
+{% if entry.type == "PhD Candidate" %}
+<li>{{ entry.name }} ({{ entry.where }})</li>
+{% endif %}
 {% endfor %}
+
+<br>
+
+<h1>Visiting PhD Students</h1>
+{% for entry in site.data.people %}
+{% if entry.type == "Visiting PhD Students" %}
+<li>{{ entry.name }} ({{ entry.where }})</li>
+{% endif %}
+{% endfor %}
+
+<br>
+
+<h1>Long-term Collaborating PhD Students</h1>
+{% for entry in site.data.people %}
+{% if entry.type == "Collaborating PhD Students" %}
+<li>{{ entry.name }} ({{ entry.where }})</li>
+{% endif %}
 {% endfor %}

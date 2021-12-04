@@ -1,0 +1,50 @@
+- name: Lorenzo Corti
+  type: PhD Candidate
+  when: now
+  where: TU Delft
+
+- name: Philip Lippmann
+  type: PhD Candidate
+  when: now
+  where: TU Delft
+
+- name: Shahin Sharifi Noorian
+  type: PhD Candidate
+  when: now
+  where: TU Delft
+
+- name: <a href="https://mingkunyang.github.io">Mingkun Yang</a>
+  type: PhD Candidate
+  when: now
+  where: TU Delft
+
+- name: <a href="https://exascale.info/members/akansha/">Akansha Bhardwaj</a>
+  type: PhD Candidate
+  when: now
+  where: University of Fribourg
+
+- name: <a href="https://agathe-balayn.github.io">Agathe Balayn</a>
+  type: Collaborating PhD Students
+  when: now
+  where: TU Delft
+
+- name: <a href="https://exascale.info/members/ines-arous/">Ines Arous</a>
+  type: Collaborating PhD Students
+  when: now
+  where: University of Fribourg
+
+- name: <a href="https://exascale.info/members/alisa-smirnova/">Alisa Smirnova</a>
+  type: Collaborating PhD Students
+  when: now
+  where: University of Fribourg
+
+- name: Andrea Tocchetti
+  type: Visiting PhD Students
+  when: now
+  where: Politecnico di Milano
+
+- name: Burcu Sayin
+  type: Visiting PhD Students
+  when: now
+  where: Univerity of Trento
+

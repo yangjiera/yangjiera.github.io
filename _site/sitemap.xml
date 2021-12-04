@@ -13,13 +13,13 @@
 <loc>http://localhost:4000/education.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/paper.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/people.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publications.html</loc>
-</url>
-<url>
-<loc>http://localhost:4000/research.html</loc>
+<loc>http://localhost:4000/project.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pdf/CQA.pdf</loc>
