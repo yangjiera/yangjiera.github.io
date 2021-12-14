@@ -51,6 +51,8 @@
   id: "ValuableML"
   tag: "Human-AI Collaboration"
   publication:
+  - work: "On the Value of ML Models (WHMD@Neurips2021)"
+    url: pdf/casati2021neurips.pdf
   - work: "The Science of Rejection: A Research Area for Human Computation (HCOMP2021)"
     url: pdf/sayin2021hcomp.pdf
 - name: "[Systemic Improvement] ContiLearn: Continual Learning from People"
