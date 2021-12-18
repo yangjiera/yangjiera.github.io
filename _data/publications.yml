@@ -5,7 +5,7 @@
   year: 2021
   type: "workshop paper"
   highlight:
-  title: "What Can Crowd Computing Do for the Next Generation of AI Technology?"
+  title: "On the Value of ML Models"
   bib: |
     @inproceedings{casati2021neurips,
       title={On the Value of ML Models},
