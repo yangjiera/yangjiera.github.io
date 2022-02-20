@@ -232,7 +232,7 @@
 - id: liu2021sensys
   authors: Hao Liu, Hanting Ye, Jie Yang, Qing Wang
   url: pdf/liu2021sensys.pdf
-  venue: ACM Conference on Embedded Networked Sensor Systems (SenSys)
+  venue: ACM SenSys Workshop on AIChallengeIoT
   year: 2021
   type: "workshop paper"
   highlight:
