@@ -4,12 +4,18 @@
     Knowing machine unknowns is essential in any context both for making AI (debugging the machine) and for using AI (deciding when to trust the machine output). We envision that this project will have a tremendous scientific and practical impact, across all areas where AI and machine learning are applied."
   id: "ARCH"
   tag: "Human-Centered Machine Learning"
-
+  publication:
+  - work: What Should You Know? A Human-In-the-Loop Approach to Unknown Unknowns Characterization in Image Recognition (WWW2022)
+    url: pdf/sharifi2022www.pdf
+  - work: Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game (WWW2022)
+    url: pdf/balayn2022www.pdf
 - name: "[Model Explanation] SECA: Know How Your Machine Works"
   description: State-of-the-art machine learning models employ neural models that generally operate as “black-boxes”. The opaqueness of these models has become a major obstacle for deploying, debugging, and tuning them. To understand how those models work, it is essential to explain model behaivor in human-understandable language. This project aims to introduces a scalable human-in-the-loop approach for global interpretability of machine learning models. We employ local interpretability methods to highlight salient input units and leverage human inteligence to annotate such units with semantic concepts. Those semantic concepts are then aggregated into a tabular representation of images to facilitate automatic statistical analysis of model behavior. Our approach supports multi-concept interpetability need for both model validation and exploration.
   id: "SECA"
   tag: "Human-Centered Machine Learning"
   publication:
+  - work: How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models? (CHI2022)
+    url: pdf/balayn2022chi.pdf
   - work: What do You Mean? Interpreting Image Classification with Crowdsourced Concept Extraction and Analysis (WWW2021)
     url: pdf/balayn2021www.pdf
   - work: "MARTA: Leveraging Human Rationales for Explainable Text Classification (AAAI2021)"
