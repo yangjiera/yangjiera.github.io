@@ -1,3 +1,74 @@
+- id: balayn2022chi
+  authors: Agathe Balayn, Nataša Rikalo, Christoph Lofi, Jie Yang, and Alessandro Bozzon
+  url: pdf/balayn2022chi.pdf
+  venue: ACM Conference on Human Factors in Computing Systems (CHI)
+  year: 2022
+  type: "full research paper"
+  highlight:
+  title: "How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?"
+  bib: |
+    @inproceedings{balayn2022chi,
+      title={Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game},
+      author={Balayn, Agathe and Rikalo, Natasa and Lofi, Christoph and Yang, Jie and Bozzon, Alessandro},
+      booktitle={Proceedings of the ACM Conference on Human Factors in Computing Systems},
+      pages={to appear},
+      year={2022},
+      organization={ACM}
+    }
+
+- id: sharifi2022www
+  authors: Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
+  url: pdf/sharifi2022www.pdf
+  venue: The Web Conference (WWW)
+  year: 2022
+  type: "full research paper"
+  highlight:
+  title: "What Should You Know? A Human-In-the-Loop Approach to Unknown Unknowns Characterization in Image Recognition"
+  bib: |
+    @inproceedings{sharifi2022www,
+      title={What Should You Know? A Human-In-the-Loop Approach to Unknown Unknowns Characterization in Image Recognition},
+      author={Sharifi Noorian, Shahin and Qiu, Sihang and Gadiraju, Ujwal and Yang, Jie and Bozzon, Alessandro},
+      booktitle={The World Wide Web Conference},
+      pages={to appear},
+      year={2022},
+      organization={ACM}
+    }
+
+- id: balayn2022www
+  authors: Agathe Balayn, Gaole He, Jie Yang, and Ujwal Gadiraju
+  url: pdf/balayn2022www.pdf
+  venue: The Web Conference (WWW)
+  year: 2022
+  type: "full research paper"
+  highlight:
+  title: "Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game"
+  bib: |
+    @inproceedings{balayn2022www,
+      title={Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game},
+      author={Balayn, Agathe and He, Gaole and Yang, Jie and Gadiraju Ujwal},
+      booktitle={The World Wide Web Conference},
+      pages={to appear},
+      year={2022},
+      organization={ACM}
+    }
+
+- id: yang2022tkde
+  authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
+  url: pdf/yang2022tkde.pdf
+  venue: IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  year: 2022
+  type: "journal paper"
+  highlight:
+  title: "Streaming Graph Embeddings via Incremental Neighborhood Sketching"
+  bib: |
+    @article{yang2022tkde,
+      title={Streaming Graph Embeddings via Incremental Neighborhood Sketching},
+      author={Yang, Dingqi and Qu, Bingqing and Yang, Jie and Wang, Liang and Cudre-Mauroux, Philipe},
+      booktitle={IEEE Transactions on Knowledge and Data Engineering},
+      year={2020},
+      organization={IEEE}
+    }
+
 - id: casati2021neurips,
   authors: Fabio Casati, Pierre-André Noël, and Jie Yang
   url: pdf/casati2021neurips.pdf
