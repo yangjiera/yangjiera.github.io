@@ -7,7 +7,7 @@
   - name: "Annual Conference of the Association for Computational Linguistics (ACL): 2022, 2021, 2020"
   - name: "Empirical Methods in Natural Language Processing (EMNLP): 2020"
   - name: "North American Chapter of the Association for Computational Linguistics (NAACL): 2021"
-  - name: "International Conference on Computational Linguistics (COLING): 2020"
+  - name: "International Conference on Computational Linguistics (COLING): 2022, 2020"
   - name: "ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR): 2022, 2021, 2020"
   - name: "ACM International Conference on Web Search and Data Mining (WSDM): 2022, 2021"
   - name: "ACM Conference on Information and Knowledge Management (CIKM): 2021, 2020"
@@ -42,6 +42,7 @@
   - name: "Journal of Web Engineering (JWE)"
   - name: "Computer Networks (ComNet)"
   - name: "Electronic Commerce Research and Applications (ECRA)"
+  - name: "Ethics and Information Technology"
 - role: Mentor at Doctorial Consortium
   data:
   - name: "AAAI Conference on Human Computation and Crowdsourcing (HCOMP): 2020"

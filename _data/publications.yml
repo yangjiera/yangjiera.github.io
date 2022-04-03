@@ -52,6 +52,24 @@
       organization={ACM}
     }
 
+- id: sun2022sigir
+  authors: Zhu Sun, Jie Yang, Kaidong Feng, Hui Fang, Xinghua Qu, and Yew Soon Ong
+  url: pdf/sun2022sigir.pdf
+  venue: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)
+  year: 2022
+  type: "resource paper"
+  highlight:
+  title: "Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling"
+  bib: |
+    @inproceedings{sun2022sigir,
+      title={Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling},
+      author={Sun, Zhu and Yang, Jie and Feng, Kaidong and Fang, Hui and Qu, Xinghua and Ong, Yew Soon},
+      booktitle={Proceedings of the 45 ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)},
+      pages={to appear},
+      year={2022},
+      organization={ACM}
+    }
+
 - id: yang2022tkde
   authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
   url: pdf/yang2022tkde.pdf
