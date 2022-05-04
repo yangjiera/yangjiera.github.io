@@ -40,7 +40,7 @@
   venue: The Web Conference (WWW)
   year: 2022
   type: "full research paper"
-  highlight:
+  highlight: Best Paper Award nomination
   title: "Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game"
   bib: |
     @inproceedings{balayn2022www,
@@ -55,7 +55,7 @@
 - id: sun2022sigir
   authors: Zhu Sun, Jie Yang, Kaidong Feng, Hui Fang, Xinghua Qu, and Yew Soon Ong
   url: pdf/sun2022sigir.pdf
-  venue: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)
+  venue: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
   year: 2022
   type: "resource paper"
   highlight:
@@ -85,6 +85,23 @@
       booktitle={IEEE Transactions on Knowledge and Data Engineering},
       year={2020},
       organization={IEEE}
+    }
+
+- id: wang2022lrec
+  authors: Zhen Wang, Xu Shan, Xiangxie Zhang, Jie Yang
+  url: pdf/wang2022lrec.pdf
+  venue: Language Resources and Evaluation Conference (LREC)
+  year: 2022
+  type: "poster"
+  highlight:
+  title: "N24News: A New Dataset for Multimodal News Classification"
+  bib: |
+    @article{wang2022lrec,
+      title={N24News: A New Dataset for Multimodal News Classification},
+      author={Wang, Zhen and Shan, Xu and Zhang, Xiangxie and Yang, Jie},
+      booktitle={Proceedings of the 13th Language Resources and Evaluation Conference},
+      year={2022},
+      organization={ELRA}
     }
 
 - id: casati2021neurips,
