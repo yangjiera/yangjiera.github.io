@@ -58,9 +58,15 @@
   year: 2022
   note: 
 
+- title: "A Human-In-the-Loop System for Interpreting Image Recognition Models"
+  student: Bart Ziengs
+  url: http://resolver.tudelft.nl/uuid:6ebbdf05-e37d-45b9-b0ad-1844c9d7f298
+  year: 2022
+  note: 
+
 - title: "Characterizing and Mitigating High-confidence Errors with Humans In the Loop"
   student: Pavel Hoogland
-  url: 
+  url: http://resolver.tudelft.nl/uuid:8a15ebd2-5668-48f1-9cb5-d681b6b37fad
   year: 2021
   note: In collaboration with <b>ILT, Ministry of Water and Infrastructure Management</b>.
 
@@ -78,7 +84,7 @@
 
 - title: "Characterizing AI Weaknesses in Detecting Personal Data from Images by Crowds"
   student: Ashay Somai
-  url: 
+  url: http://resolver.tudelft.nl/uuid:f28d8d32-d7ab-4008-bb61-6ddb2158bf4c
   year: 2021
   note: 
 
