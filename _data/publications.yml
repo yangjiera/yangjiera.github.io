@@ -70,6 +70,24 @@
       organization={ACM}
     }
 
+- id: sun2022tpami
+  authors: Zhu Sun, Jie Yang, Kaidong Feng, Hui Fang, Xinghua Qu, and Yew Soon Ong
+  url: pdf/sun2022tpami.pdf
+  venue: Under Review
+  year: 2022
+  type: "journal paper"
+  highlight:
+  title: "DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation"
+  bib: |
+    @inproceedings{sun2022tpami,
+      title={DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation},
+      author={Sun, Zhu and Fang, Hui and Yang, Jie and Qu, Xinghua and Liu, Hongyang and Yu, Di and Ong, Yew Soon and Zhang, Jie},
+      booktitle={under review},
+      pages={to appear},
+      year={2022},
+      organization={IEEE}
+    }
+
 - id: yang2022tkde
   authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
   url: pdf/yang2022tkde.pdf
@@ -102,6 +120,41 @@
       booktitle={Proceedings of the 13th Language Resources and Evaluation Conference},
       year={2022},
       organization={ELRA}
+    }
+
+- id: samiotis2022frontiers
+  authors: Ioannis Petros Samiotis, Sihang Qiu, Christoph Lofi, Jie Yang, Ujwal Gadiraju, and Alessandro Bozzon
+  url: pdf/samiotis2022frontiers.pdf
+  venue: Frontiers in Artificial Intelligence
+  year: 2022
+  type: "journal paper"
+  highlight:
+  title: "An Analysis of Music Perception Skills on Crowdsourcing Platforms"
+  bib: |
+    @inproceedings{samiotis2021hcomp,
+      title={An Analysis of Music Perception Skills on Crowdsourcing Platforms},
+      author={Samiotis, Ioannis Petros and Qiu, Sihang and Lofi, Christoph and Yang, Jie and Gadiraju, Ujwal and Bozzon, Alessandro},
+      booktitle={Frontiers in Artificial Intelligence},
+      volume={5},
+      pages={828733},
+      year={2022},
+      organization={Frontiers}
+    }
+
+- id: zhu2022edm
+  authors: Peide Zhu, Jie Yang, Claudia Hauff
+  url: pdf/zhu2022edm.pdf
+  venue: Educational Data Mining (EDM)
+  year: 2022
+  type: "short research paper"
+  highlight:
+  title: "MOOC-Rec: Instructional Video Clip Recommendation for MOOC Forum Questions"
+  bib: |
+    @article{wang2022lrec,
+      title={MOOC-Rec: Instructional Video Clip Recommendation for MOOC Forum Questions},
+      author={Zhu, Peide and Yang, Jie and Hauff, Claudia},
+      booktitle={Proceedings of the 15th International Conference on Educational Data Mining},
+      year={2022}
     }
 
 - id: casati2021neurips,
