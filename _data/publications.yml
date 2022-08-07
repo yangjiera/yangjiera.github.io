@@ -1,21 +1,3 @@
-- id: balayn2022chi
-  authors: Agathe Balayn, Nataša Rikalo, Christoph Lofi, Jie Yang, and Alessandro Bozzon
-  url: pdf/balayn2022chi.pdf
-  venue: ACM Conference on Human Factors in Computing Systems (CHI)
-  year: 2022
-  type: "full research paper"
-  highlight:
-  title: "How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?"
-  bib: |
-    @inproceedings{balayn2022chi,
-      title={Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game},
-      author={Balayn, Agathe and Rikalo, Natasa and Lofi, Christoph and Yang, Jie and Bozzon, Alessandro},
-      booktitle={Proceedings of the ACM Conference on Human Factors in Computing Systems},
-      pages={to appear},
-      year={2022},
-      organization={ACM}
-    }
-
 - id: sharifi2022www
   authors: Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
   url: pdf/sharifi2022www.pdf
@@ -47,6 +29,24 @@
       title={Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game},
       author={Balayn, Agathe and He, Gaole and Yang, Jie and Gadiraju Ujwal},
       booktitle={The World Wide Web Conference},
+      pages={to appear},
+      year={2022},
+      organization={ACM}
+    }
+
+- id: balayn2022chi
+  authors: Agathe Balayn, Nataša Rikalo, Christoph Lofi, Jie Yang, and Alessandro Bozzon
+  url: pdf/balayn2022chi.pdf
+  venue: ACM Conference on Human Factors in Computing Systems (CHI)
+  year: 2022
+  type: "full research paper"
+  highlight:
+  title: "How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?"
+  bib: |
+    @inproceedings{balayn2022chi,
+      title={Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game},
+      author={Balayn, Agathe and Rikalo, Natasa and Lofi, Christoph and Yang, Jie and Bozzon, Alessandro},
+      booktitle={Proceedings of the ACM Conference on Human Factors in Computing Systems},
       pages={to appear},
       year={2022},
       organization={ACM}
@@ -88,6 +88,23 @@
       organization={IEEE}
     }
 
+- id: smirnova2022tkde
+  authors: Alisa Smirnova, Jie Yang, Dingqi Yang, and Philippe Cudré-Mauroux
+  url: pdf/smirnova2022tkde.pdf
+  venue: IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  year: 2022
+  type: "journal paper"
+  highlight:
+  title: "Nessy: a Neuro-Symbolic System for Label Noise Reduction"
+  bib: |
+    @article{smirnova2022tkde,
+      title={Nessy: a Neuro-Symbolic System for Label Noise Reduction},
+      author={Smirnova, Alisa and Yang, Jie and Yang, Dingqi and Cudre-Mauroux, Philipe},
+      booktitle={IEEE Transactions on Knowledge and Data Engineering},
+      year={2022},
+      organization={IEEE}
+    }
+
 - id: yang2022tkde
   authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
   url: pdf/yang2022tkde.pdf
@@ -101,7 +118,7 @@
       title={Streaming Graph Embeddings via Incremental Neighborhood Sketching},
       author={Yang, Dingqi and Qu, Bingqing and Yang, Jie and Wang, Liang and Cudre-Mauroux, Philipe},
       booktitle={IEEE Transactions on Knowledge and Data Engineering},
-      year={2020},
+      year={2022},
       organization={IEEE}
     }
 
@@ -154,6 +171,22 @@
       title={MOOC-Rec: Instructional Video Clip Recommendation for MOOC Forum Questions},
       author={Zhu, Peide and Yang, Jie and Hauff, Claudia},
       booktitle={Proceedings of the 15th International Conference on Educational Data Mining},
+      year={2022}
+    }
+
+- id: wang2022mass
+  authors: Eric Wang, Jie Yang, Qing Wang, and Marco Zunigaz
+  url: pdf/wang2022mass.pdf
+  venue:  IEEE 19th International Conference on Mobile Ad Hoc and Smart Systems (MASS)
+  year: 2022
+  type: "short research paper"
+  highlight:
+  title: "CamPressID: Optimizing Camera Configuration and Finger Pressure for Biometric Authentication"
+  bib: |
+    @article{wang2022lrec,
+      title={CamPressID: Optimizing Camera Configuration and Finger Pressure for Biometric Authentication},
+      author={Wang, Eric and Yang, Jie and Wang, Qing and Zunigaz, Marco},
+      booktitle={Proceedings of the 2022  IEEE 19th International Conference on Mobile Ad Hoc and Smart Systems},
       year={2022}
     }
 
