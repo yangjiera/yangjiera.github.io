@@ -141,6 +141,23 @@
       organization={IEEE}
     }
 
+- id: bhardwaj2022tkde
+  authors: Akansha Bhardwaj, Jie Yang, and Philippe Cudré-Mauroux
+  url: pdf/bhardwaj2022tkde.pdf
+  venue: IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  year: 2022
+  type: "journal paper"
+  highlight:
+  title: "Human-in-the-Loop Rule Discovery for Micropost Event Detection"
+  bib: |
+    @article{bhardwaj2022tkde,
+      title={Human-in-the-Loop Rule Discovery for Micropost Event Detection},
+      author={Bhardwaj, Akansha and Yang, Jie and Cudre-Mauroux, Philipe},
+      booktitle={IEEE Transactions on Knowledge and Data Engineering},
+      year={2022},
+      organization={IEEE}
+    }
+
 - id: yang2022tkde
   authors: Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux
   url: pdf/yang2022tkde.pdf
