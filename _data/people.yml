@@ -23,9 +23,9 @@
   when: now
   where: University of Fribourg
 
-- name: <a href="https://exascale.info/members/ines-arous/">Ines Arous</a>
-  type: PhD Candidate
-  when: now
+- name: <a href="https://exascale.info/members/ines-arous/">Ines Arous</a>, defended in Oct, 2022
+  type: Former PhD Students
+  when: former
   where: University of Fribourg
 
 - name: <a href="https://agathe-balayn.github.io">Agathe Balayn</a>
@@ -38,13 +38,13 @@
   when: now
   where: University of Fribourg
 
-- name: Andrea Tocchetti
-  type: Visiting PhD Students
-  when: now
+- name: Andrea Tocchetti, visiting PhD
+  type: Former PhD Students
+  when: former
   where: Politecnico di Milano
 
-- name: Burcu Sayin
-  type: Visiting PhD Students
-  when: now
+- name: Burcu Sayin, visiting PhD
+  type: Former PhD Students
+  when: former
   where: Univerity of Trento
 

@@ -1,3 +1,93 @@
+- id: tocchetti2023csur
+  authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, Mireia Yurrita, Philip Lippmann, Marco Brambilla, Jie Yang
+  url: https://arxiv.org/abs/2210.08906
+  venue: arXiv
+  year: 2023
+  type: "journal paper"
+  highlight:
+  title: "A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities"
+  bib: |
+    @inproceedings{tocchetti2023csur,
+      title={A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities},
+      author={Tocchetti, Andrea and Corti, Lorenzo and Balayn, Agathe and Yurrita, Mireia and Lippmann, Philip and Brambilla, Marco and Yang, Jie},
+      booktitle={arxiv: 2210.08906},
+      pages={},
+      year={2023},
+      organization={}
+    }
+
+- id: sayin2023acl
+  authors: Burcu Sayin, Fabio Casati, Andrea Passerini, Jie Yang, Xinyue Chen
+  url: https://arxiv.org/pdf/2209.15157
+  venue: arXiv
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "Rethinking and Recomputing the Value of ML Models"
+  bib: |
+    @inproceedings{sayin2023acl,
+      title={Rethinking and Recomputing the Value of ML Models},
+      author={Sayin, Burcu and Casati, Fabio and Passerini, Andrea and Yang, Jie and Chen, Xinyue},
+      booktitle={arxiv: 2209.15157},
+      pages={},
+      year={2023},
+      organization={}
+    }
+
+- id: sun2023tpami
+  authors: Zhu Sun, Jie Yang, Kaidong Feng, Hui Fang, Xinghua Qu, and Yew Soon Ong
+  url: pdf/sun2023tpami.pdf
+  venue: arXiv
+  year: 2023
+  type: "journal paper"
+  highlight:
+  title: "DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation"
+  bib: |
+    @inproceedings{sun2023tpami,
+      title={DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation},
+      author={Sun, Zhu and Fang, Hui and Yang, Jie and Qu, Xinghua and Liu, Hongyang and Yu, Di and Ong, Yew Soon and Zhang, Jie},
+      booktitle={under review},
+      pages={to appear},
+      year={2022},
+      organization={IEEE}
+    }
+
+- id: zhu2023emnlp
+  authors: Peide Zhu, Claudia Hauff, Jie Yang, Avishek Anand
+  url: pdf/zhu2023emnlp.pdf
+  venue: Empirical Methods in Natural Language Processing (EMNLP)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "Answer Quality Aware Aggregation for Extractive QA Crowdsourcing"
+  bib: |
+    @article{zhu2023emnlp,
+      title={Answer Quality Aware Aggregation for Extractive QA Crowdsourcing},
+      author={Zhu, Peide and Yang, Jie and Hauff, Claudia and Yang, Jie and Anand, Avishek},
+      booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+      pages={to appear},
+      year={2023},
+      organization={ACL}
+    }
+
+- id: chen2023icde
+  authors: Zhijun Chen, Jie Yang, Haoqian He, Hailong Sun, Hailong Sun and Pengpeng Chen
+  url: pdf/chen2023icde.pdf
+  venue: IEEE International Conference on Data Engineering (ICDE)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "Learning from Noisy Crowd Labels with Logics"
+  bib: |
+    @inproceedings{chen2023icde,
+      title={Learning from Noisy Crowd Labels with Logics},
+      author={Chen, Zhijun and Yang, Jie and He, Haoqian and Sun, Hailong and Chen, Pengpeng},
+      booktitle={Proceedings of IEEE International Conference on Data Engineering 2023},
+      pages={to appear},
+      year={2023},
+      organization={IEEE}
+    }
+
 - id: sharifi2022www
   authors: Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
   url: pdf/sharifi2022www.pdf
@@ -104,24 +194,6 @@
       pages={to appear},
       year={2022},
       organization={ACM}
-    }
-
-- id: sun2022tpami
-  authors: Zhu Sun, Jie Yang, Kaidong Feng, Hui Fang, Xinghua Qu, and Yew Soon Ong
-  url: pdf/sun2022tpami.pdf
-  venue: Under Review
-  year: 2022
-  type: "journal paper"
-  highlight:
-  title: "DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation"
-  bib: |
-    @inproceedings{sun2022tpami,
-      title={DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation},
-      author={Sun, Zhu and Fang, Hui and Yang, Jie and Qu, Xinghua and Liu, Hongyang and Yu, Di and Ong, Yew Soon and Zhang, Jie},
-      booktitle={under review},
-      pages={to appear},
-      year={2022},
-      organization={IEEE}
     }
 
 - id: smirnova2022tkde
