@@ -52,24 +52,6 @@
       organization={IEEE}
     }
 
-- id: zhu2023emnlp
-  authors: Peide Zhu, Claudia Hauff, Jie Yang, Avishek Anand
-  url: pdf/zhu2023emnlp.pdf
-  venue: Empirical Methods in Natural Language Processing (EMNLP)
-  year: 2023
-  type: "full research paper"
-  highlight:
-  title: "Answer Quality Aware Aggregation for Extractive QA Crowdsourcing"
-  bib: |
-    @article{zhu2023emnlp,
-      title={Answer Quality Aware Aggregation for Extractive QA Crowdsourcing},
-      author={Zhu, Peide and Yang, Jie and Hauff, Claudia and Yang, Jie and Anand, Avishek},
-      booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
-      pages={to appear},
-      year={2023},
-      organization={ACL}
-    }
-
 - id: chen2023icde
   authors: Zhijun Chen, Jie Yang, Haoqian He, Hailong Sun, Hailong Sun and Pengpeng Chen
   url: pdf/chen2023icde.pdf
@@ -166,7 +148,7 @@
   venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
   year: 2022
   type: "full research paper"
-  highlight:
+  highlight: "Best Paper Award"
   title: "It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge"
   bib: |
     @inproceedings{he2022hcomp,
@@ -176,6 +158,24 @@
       pages={to appear},
       year={2022},
       organization={AAAI}
+    }
+
+- id: zhu2022emnlp
+  authors: Peide Zhu, Claudia Hauff, Jie Yang, Avishek Anand
+  url: pdf/zhu2022emnlp.pdf
+  venue: Empirical Methods in Natural Language Processing (EMNLP)
+  year: 2022
+  type: "full research paper"
+  highlight:
+  title: "Answer Quality Aware Aggregation for Extractive QA Crowdsourcing"
+  bib: |
+    @article{zhu2022emnlp,
+      title={Answer Quality Aware Aggregation for Extractive QA Crowdsourcing},
+      author={Zhu, Peide and Yang, Jie and Hauff, Claudia and Yang, Jie and Anand, Avishek},
+      booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+      pages={to appear},
+      year={2022},
+      organization={ACL}
     }
 
 - id: sun2022sigir
