@@ -35,9 +35,9 @@
     }
 
 - id: sun2023tpami
-  authors: Zhu Sun, Jie Yang, Kaidong Feng, Hui Fang, Xinghua Qu, and Yew Soon Ong
+  authors: Zhu Sun, Hui Fang, Jie Yang, Xinghua Qu, Hongyang Liu, Di Yu, Yew-Soon Ong, and Jie Zhang
   url: pdf/sun2023tpami.pdf
-  venue: arXiv
+  venue: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   year: 2023
   type: "journal paper"
   highlight:
@@ -46,9 +46,9 @@
     @inproceedings{sun2023tpami,
       title={DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation},
       author={Sun, Zhu and Fang, Hui and Yang, Jie and Qu, Xinghua and Liu, Hongyang and Yu, Di and Ong, Yew Soon and Zhang, Jie},
-      booktitle={under review},
+      booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       pages={to appear},
-      year={2022},
+      year={2023},
       organization={IEEE}
     }
 
