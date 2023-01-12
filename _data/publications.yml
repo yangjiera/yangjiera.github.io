@@ -686,23 +686,6 @@
       organization={ACM}
     }
 
-- id: chen2020ijcai
-  authors: Zhijun Chen, Huimin Wang, Hailong Sun, Pengpeng Chen, Tao Han, Hudong Liu, and Jie Yang
-  url: pdf/chen2020ijcai.pdf
-  venue: International Joint Conference on Artificial Intelligence (IJCAI)
-  year: 2020
-  type: "full research paper"
-  highlight:
-  title: "Structured Probabilistic End-to-End Learning from Crowds"
-  bib: |
-    @inproceedings{chen2020ijcai,
-      title={Structured Probabilistic End-to-End Learning from Crowds},
-      author={Chen, Zhijun and Wang, Huimin and Sun, Hailong and Chen, Pengpeng and Han, Tao and Liu, Hudong and Yang, Jie},
-      booktitle={Proceedings of the 29th International Joint Conference on Artificial Intelligence},
-      pages={1512--1518},
-      year={2020}
-    }
-
 - id: bhardwaj2020aaai
   authors: Akansha Bhardwaj, Jie Yang, and Philippe Cudré-Mauroux
   url: pdf/bhardwaj2020aaai.pdf
