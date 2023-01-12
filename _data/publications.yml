@@ -52,22 +52,22 @@
       organization={IEEE}
     }
 
-- id: chen2023icde
-  authors: Zhijun Chen, Jie Yang, Haoqian He, Hailong Sun, Hailong Sun and Pengpeng Chen
-  url: pdf/chen2023icde.pdf
-  venue: IEEE International Conference on Data Engineering (ICDE)
+- id: sharifi2023iui
+  authors: Shahin Sharifi Noorian, Sihang Qiu, Burcu Sayin, Agathe Balayn, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
+  url: pdf/sharifi2023iui.pdf
+  venue: ACM Conference on Intelligent User Interfaces (IUI)
   year: 2023
   type: "full research paper"
   highlight:
-  title: "Learning from Noisy Crowd Labels with Logics"
+  title: "Perspective: Leveraging Human Understanding for Identifying and Characterizing Image Atypicality"
   bib: |
-    @inproceedings{chen2023icde,
-      title={Learning from Noisy Crowd Labels with Logics},
-      author={Chen, Zhijun and Yang, Jie and He, Haoqian and Sun, Hailong and Chen, Pengpeng},
-      booktitle={Proceedings of IEEE International Conference on Data Engineering 2023},
+    @inproceedings{sharifi2023iui,
+      title={Perspective: Leveraging Human Understanding for Identifying and Characterizing Image Atypicality},
+      author={Sharifi Noorian, Shahin and Qiu, Sihang and Sayin, Burcu and Balayn, Agathe and Gadiraju, Ujwal and Yang, Jie and Bozzon, Alessandro},
+      booktitle={Proceedings of the 28th ACM Conference on Intelligent User Interfaces},
       pages={to appear},
       year={2023},
-      organization={IEEE}
+      organization={ACM}
     }
 
 - id: sharifi2022www
