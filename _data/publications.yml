@@ -34,6 +34,42 @@
       organization={}
     }
 
+- id: balayn2023chi
+  authors: Agathe Balayn, Nataša Rikalo, Jie Yang, and Alessandro Bozzon
+  url: pdf/balayn2023chi.pdf
+  venue: ACM Conference on Human Factors in Computing Systems (CHI)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "Faulty or Ready? Handling Failures in Deep-Learning Computer Vision Models until Deployment: A Study of Practices, Challenges, and Needs"
+  bib: |
+    @inproceedings{balayn2023chi,
+      title={Faulty or Ready? Handling Failures in Deep-Learning Computer Vision Models until Deployment: A Study of Practices, Challenges, and Needs},
+      author={Balayn, Agathe and Rikalo, Natasa and Yang, Jie and Bozzon, Alessandro},
+      booktitle={Proceedings of the ACM Conference on Human Factors in Computing Systems},
+      pages={to appear},
+      year={2023},
+      organization={ACM}
+    }
+
+- id: mesbah2023www
+  authors: Sepideh Mesbah, Ines Arous, Jie Yang, and Alessandro Bozzon
+  url: pdf/mesbah2023www.pdf
+  venue: The Web Conference (WWW)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale"
+  bib: |
+    @inproceedings{mesbah2023www,
+      title={HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale},
+      author={Mesbah, Sepideh and Arous, Ines and Yang, Jie and Bozzon, Alessandro},
+      booktitle={The World Wide Web Conference},
+      pages={to appear},
+      year={2023},
+      organization={ACM}
+    }
+
 - id: sun2023tpami
   authors: Zhu Sun, Hui Fang, Jie Yang, Xinghua Qu, Hongyang Liu, Di Yu, Yew-Soon Ong, and Jie Zhang
   url: pdf/sun2023tpami.pdf
