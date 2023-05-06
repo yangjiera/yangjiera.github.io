@@ -34,6 +34,42 @@
       organization={}
     }
 
+- id: lammerts2023aies
+  authors: Philippe Lammerts, Philip Lippmann, Yen-Chia Hsu, Fabio Casati, and Jie Yang
+  url: pdf/lammerts2023aies.pdf
+  venue: AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "How do you feel? Measuring User-Perceived Value for Rejecting Machine Decisions in Hate Speech Detection"
+  bib: |
+    @inproceedings{lammerts2023aies,
+      title={How do you feel? Measuring User-Perceived Value for Rejecting Machine Decisions in Hate Speech Detection},
+      author={Lammerts, Philippe and Lippmann, Philip and Hsu, Yen-Chia and Casati, Fabio and Yang, Jie},
+      booktitle={AAAI/ACM Conference on AI, Ethics, and Society},
+      pages={to appear},
+      year={2023},
+      organization={AAAI/ACM}
+    }
+
+- id: balayn2023aies
+  authors: Agathe Balayn, Mireia Yurrita, Jie Yang, and Ujwal Gadiraju
+  url: pdf/balayn2023aies.pdf
+  venue: AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "Fairness Toolkits, A Checkbox Culture? On the Factors that Fragment Developer Practices in Handling Algorithmic Harms"
+  bib: |
+    @inproceedings{balayn2023aies,
+      title={Fairness Toolkits, A Checkbox Culture? On the Factors that Fragment Developer Practices in Handling Algorithmic Harms},
+      author={Balayn, Agathe and Yurrita, Mireia and Yang, Jie and Gadiraju, Ujwal},
+      booktitle={AAAI/ACM Conference on AI, Ethics, and Society},
+      pages={},
+      year={2023},
+      organization={AAAI/ACM}
+    }
+
 - id: balayn2023chi
   authors: Agathe Balayn, Nataša Rikalo, Jie Yang, and Alessandro Bozzon
   url: pdf/balayn2023chi.pdf
@@ -58,7 +94,7 @@
   venue: The Web Conference (WWW)
   year: 2023
   type: "full research paper"
-  highlight:
+  highlight: Best (Student) Paper Award nomination
   title: "HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale"
   bib: |
     @inproceedings{mesbah2023www,
@@ -104,6 +140,42 @@
       pages={to appear},
       year={2023},
       organization={ACM}
+    }
+
+- id: demartini2023sigir
+  authors: Gianluca Demartini, Jie Yang, and Shazia Sadiq
+  url: pdf/demartini2023sigir.pdf
+  venue: ACM SIGIR Forum
+  year: 2023
+  type: "editorial contribution"
+  highlight: 
+  title: "Report on the 1st Workshop on Human-in-the-Loop Data Curation (HIL-DC 2022) at CIKM 2022"
+  bib: |
+    @inproceedings{demartini2023sigir,
+      title={Report on the 1st Workshop on Human-in-the-Loop Data Curation (HIL-DC 2022) at CIKM 2022},
+      author={Demartini, Gianluca and Yang, Jie and Sadiq, Shazia},
+      booktitle={ACM SIGIR Forum},
+      pages={1--8},
+      year={2023},
+      organization={ACM}
+    }
+
+- id: yang2023frontiers
+  authors: Jie Yang, Alessandro Bozzon, Ujwal Gadiraju, and Matthew Lease
+  url: pdf/yang2023frontiers.pdf
+  venue: Frontiers in Artificial Intelligence
+  year: 2023
+  type: "editorial contribution"
+  highlight: 
+  title: "Human-centered AI: Crowd computing"
+  bib: |
+    @inproceedings{yang2023frontiers,
+      title={Human-centered AI: Crowd Computing},
+      author={Yang, Jie and Bozzon, Alessandro and Gadiraju, Ujwal, and Lease, Matthew},
+      booktitle={Frontiers in Artificial Intelligence},
+      volume={6},
+      year={2023},
+      organization={Frontiers Media SA}
     }
 
 - id: sharifi2022www
