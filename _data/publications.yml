@@ -178,6 +178,42 @@
       organization={Frontiers Media SA}
     }
 
+- id: sayin2023ahhai
+  authors: Burcu Sayin, Jie Yang, Andrea Passerini, and Fabio Casati
+  url: pdf/sayin2023ahhai.pdf
+  venue: International Conference on Hybrid Human-Artificial Intelligence (HHAI)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "Value-aware active learning"
+  bib: |
+    @inproceedings{sayin2023ahhai,
+      title={Value-aware active learning},
+      author={Sayin, Burcu and Yang, Jie and Passerini, Andrea and Casati, Fabio},
+      booktitle={International Conference on Hybrid Human-Artificial Intelligence (HHAI)},
+      pages={to appear},
+      year={2023},
+      organization={}
+    }
+
+- id: sayin2023bhhai
+  authors: Burcu Sayin, Jie Yang, Andrea Passerini, and Fabio Casati
+  url: pdf/sayin2023bhhai.pdf
+  venue: International Conference on Hybrid Human-Artificial Intelligence (HHAI)
+  year: 2023
+  type: "extended abstract paper"
+  highlight:
+  title: "Value-based Hybrid Intelligence"
+  bib: |
+    @inproceedings{sayin2023bhhai,
+      title={Value-based Hybrid Intelligence},
+      author={Sayin, Burcu and Yang, Jie and Passerini, Andrea and Casati, Fabio},
+      booktitle={International Conference on Hybrid Human-Artificial Intelligence (HHAI)},
+      pages={to appear},
+      year={2023},
+      organization={}
+    }
+
 - id: sharifi2022www
   authors: Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
   url: pdf/sharifi2022www.pdf
