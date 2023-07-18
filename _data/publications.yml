@@ -94,7 +94,7 @@
   venue: The Web Conference (WWW)
   year: 2023
   type: "full research paper"
-  highlight: Best (Student) Paper Award nomination
+  highlight: Best Paper Award nomination
   title: "HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale"
   bib: |
     @inproceedings{mesbah2023www,
@@ -213,6 +213,8 @@
       year={2023},
       organization={}
     }
+
+- id: zhu2023secon
 
 - id: sharifi2022www
   authors: Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
