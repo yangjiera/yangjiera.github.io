@@ -142,6 +142,24 @@
       organization={ACM}
     }
 
+- id: zhu2023secon
+  authors: Ran Zhu, Mingkun Yang, Jie Yang, and Qing Wang
+  url: pdf/zhu2023secon.pdf
+  venue: Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "FedNaWi: Selecting the Befitting Clients for Robust Federated Learning in IoT Applications"
+  bib: |
+    @inproceedings{zhu2023secon,
+      title={FedNaWi: Selecting the Befitting Clients for Robust Federated Learning in IoT Applications},
+      author={Sayin, Burcu and Yang, Jie and Passerini, Andrea and Casati, Fabio},
+      booktitle={Proceedings of the 2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)},
+      pages={to appear},
+      year={2023},
+      organization={}
+    }
+    
 - id: demartini2023sigir
   authors: Gianluca Demartini, Jie Yang, and Shazia Sadiq
   url: pdf/demartini2023sigir.pdf
@@ -213,8 +231,6 @@
       year={2023},
       organization={}
     }
-
-- id: zhu2023secon
 
 - id: sharifi2022www
   authors: Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
