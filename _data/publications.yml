@@ -58,7 +58,7 @@
   venue: AAAI/ACM Conference on AI, Ethics, and Society (AIES)
   year: 2023
   type: "full research paper"
-  highlight:
+  highlight: Best Paper Award
   title: "Fairness Toolkits, A Checkbox Culture? On the Factors that Fragment Developer Practices in Handling Algorithmic Harms"
   bib: |
     @inproceedings{balayn2023aies,

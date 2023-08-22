@@ -14,8 +14,8 @@ I work on *human-centered computing* approaches for trustworthy machine learning
 
 ---
 **NEWS**: 
-We are looking for two postdocs, see the [vacancies](https://www.wis.ewi.tudelft.nl/assets/files/DiSa%20Vacancy.pdf);<br> 
 Check out our communities [Human Language Technologies](https://www.tudelft.nl/en/ai/research-innovation/our-research-themes/responsible-design-and-engineering-of-human-centered-ai-and-data-driven-systems/human-language-technologies) and [Human-Centered AI](https://www.tudelft.nl/en/ai/research-innovation/our-research-themes/responsible-design-and-engineering-of-human-centered-ai-and-data-driven-systems);<br> 
+Papers received Best Paper Award and nomination at [TheWebConf](https://www2023.thewebconf.org) & [AIES](https://www.aies-conference.com/2023/) 2023.<br> 
 We are organising TAFF speaker series "[Human-Centered AI: Knowledge and Language](https://www.academicfringe.org/hcai-knowledge-and-language)";<br> 
 Call for papers [Human-In-the-Loop Data Curation](https://hilworkshops.github.io/hil-dc2022/JDIQ_SI_HITLDC_2023.pdf) at ACM JDIQ; check our workshop at [CIKM 2022](https://hilworkshops.github.io/hil-dc2022/);<br>
 I'm serving on the Senior Program Committees of [TheWebConf](https://www2023.thewebconf.org) and [AAAI](https://aaai.org/Conferences/AAAI-23/) 2023;<br> 
