@@ -2,7 +2,7 @@
   data:
   - name: "The Web Conference (WWW): 2023, 2022, 2021, 2018"
   - name: "AAAI Conference on Human Computation and Crowdsourcing (HCOMP): 2022, 2019, 2018"
-  - name: "AAAI Conference on Artificial Intelligence (AAAI): 2023, 2022, 2021, 2020"
+  - name: "AAAI Conference on Artificial Intelligence (AAAI): 2024, 2023, 2022, 2021, 2020"
   - name: "AAAI Conference on Web and Social Media (ICWSM): 2020, 2019, 2018"
   - name: "International Joint Conference on Artificial Intelligence (IJCAI): 2020"
   - name: "Annual Conference of the Association for Computational Linguistics (ACL): 2022, 2021, 2020"
@@ -28,6 +28,7 @@
   - name: "Recommendation and Advertising in Online Social Networks (READNet): 2019"
 - role: Journal Editor
   data:
+  - name: "Frontiers in Artificial Intelligence"
   - name: "Journal of Human Computation (JHC)"
   - name: "Human-Centered AI: Crowd Computing at Frontiers in AI & BigData"
 - role: Journal Referee

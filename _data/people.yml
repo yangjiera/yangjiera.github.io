@@ -1,3 +1,8 @@
+- name: Anne Arzberger
+  type: PhD Candidate
+  when: now
+  where: TU Delft
+
 - name: Lorenzo Corti
   type: PhD Candidate
   when: now
@@ -18,24 +23,29 @@
   when: now
   where: TU Delft
 
-- name: <a href="https://exascale.info/members/akansha/">Akansha Bhardwaj</a>
+- name: <a href="https://exascale.info/members/alisa-smirnova/">Alisa Smirnova</a>
   type: PhD Candidate
+  when: now
+  where: University of Fribourg
+
+- name: <a href="https://www.tudelft.nl/staff/s.e.carter/?cHash=e98e87475a61ba0a34748d4204a69b7d">Sarah Carter</a>
+  type: PostDoc
+  when: now
+  where: TU Delft
+
+- name: <a href="https://agathe-balayn.github.io">Agathe Balayn</a>, postdoc, 2023
+  type: Former PhD Students
+  when: former
+  where: TU Delft
+
+- name: <a href="https://exascale.info/members/akansha/">Akansha Bhardwaj</a>, defended in Feb, 2023
+  type: Former PhD Students
   when: now
   where: University of Fribourg
 
 - name: <a href="https://exascale.info/members/ines-arous/">Ines Arous</a>, defended in Oct, 2022
   type: Former PhD Students
   when: former
-  where: University of Fribourg
-
-- name: <a href="https://agathe-balayn.github.io">Agathe Balayn</a>
-  type: Collaborating PhD Students
-  when: now
-  where: TU Delft
-
-- name: <a href="https://exascale.info/members/alisa-smirnova/">Alisa Smirnova</a>
-  type: Collaborating PhD Students
-  when: now
   where: University of Fribourg
 
 - name: Andrea Tocchetti, visiting PhD
