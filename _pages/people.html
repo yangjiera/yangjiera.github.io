@@ -7,17 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>PhD Students</h1>
+<h1>Team</h1>
 
-<h2>Current</h2>
+<h2>Current PhDs & Postdocs</h2>
 
 
 {% for entry in site.data.people %}
 {% if entry.type == "PhD Candidate" %}
-<li>{{ entry.name }}, PhD candidate, ({{ entry.where }})</li>
+<li>{{ entry.name }}, PhD candidate ({{ entry.where }})</li>
 {% endif %}
 {% if entry.type == "PostDoc" %}
-<li>{{ entry.name }}, PostDoc, ({{ entry.where }})</li>
+<li>{{ entry.name }}, PostDoc ({{ entry.where }})</li>
 {% endif %}
 {% endfor %}
 
@@ -38,7 +38,7 @@ author_profile: true
 {% endfor %}
 -->
 
-<h2>Former PhDs, postdocs, and Alumni</h2>
+<h2>Former PhDs, Postdocs, and Visiting Students</h2>
 {% for entry in site.data.people %}
 {% if entry.type == "Former PhD Students" %}
 <li>{{ entry.name }} ({{ entry.where }})</li>

@@ -1,9 +1,9 @@
-- name: Anne Arzberger
+- name: <a href="https://anne6433.wixsite.com/website-5">Anne Arzberger</a>
   type: PhD Candidate
   when: now
   where: TU Delft
 
-- name: Lorenzo Corti
+- name: <a href="https://lcorti.github.io">Lorenzo Corti</a>
   type: PhD Candidate
   when: now
   where: TU Delft
@@ -48,12 +48,12 @@
   when: former
   where: University of Fribourg
 
-- name: Andrea Tocchetti, visiting PhD
+- name: <a href="https://www.deib.polimi.it/eng/people/details/1054414">Andrea Tocchetti</a>, visiting PhD
   type: Former PhD Students
   when: former
   where: Politecnico di Milano
 
-- name: Burcu Sayin, visiting PhD
+- name: <a href="https://burcusayin.github.io">Burcu Sayin<a>, visiting PhD
   type: Former PhD Students
   when: former
   where: Univerity of Trento

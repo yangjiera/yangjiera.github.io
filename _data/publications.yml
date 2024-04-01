@@ -1,3 +1,93 @@
+- id: corti2024chi
+  authors: Lorenzo Corti, Rembrandt Oltmans, Jiwon Jung, Agathe Balayn, Marlies Wijsenbeek, and Jie Yang
+  url: pdf/corti2024chi.pdf
+  venue: ACM Conference on Human Factors in Computing Systems (CHI)
+  year: 2024
+  type: "full research paper"
+  highlight:
+  title: "`It Is a Moving Process': Understanding the Evolution of Explainability Needs of Clinicians in Pulmonary Medicine"
+  bib: |
+    @inproceedings{corti2024chi,
+      title={"It Is a Moving Process": Understanding the Evolution of Explainability Needs of Clinicians in Pulmonary Medicine},
+      author={Corti, Lorenzo and Oltmans, Rembrandt and Jung, Jiwon and Balayn, Agathe and Wijsenbeek, Marlies and Yang, Jie},
+      booktitle={Proceedings of the ACM Conference on Human Factors in Computing Systems},
+      pages={to appear},
+      year={2024},
+      organization={ACM}
+    }
+
+- id: yang2024iclr
+  authors: Mingkun Yang, Ran Zhu, Qing Wang, and Jie Yang
+  url: pdf/yang2024iclr.pdf
+  venue: International Conference on Learning Representations (ICLR)
+  year: 2024
+  type: "full research paper"
+  highlight:
+  title: "FedTrans: Client-Transparent Utility Estimation for Robust Federated Learning"
+  bib: |
+    @inproceedings{yang2024iclr,
+      title={FedTrans: Client-Transparent Utility Estimation for Robust Federated Learning},
+      author={Yang, Mingkun and Zhu, Ran and Wang, Qing and Yang, Jie},
+      booktitle={Proceedings of The Twelfth International Conference on Learning Representations},
+      pages={to appear},
+      year={2024},
+      organization={}
+    }
+
+- id: yu2024www
+  authors: Weijian Yu, Jie Yang, and Dingqi Yang
+  url: pdf/yu2024www.pdf
+  venue: The Web Conference (WWW)
+  year: 2024
+  type: "full research paper"
+  highlight:
+  title: "Robust Link Prediction over Noisy Hyper-Relational Knowledge Graphs"
+  bib: |
+    @inproceedings{yu2024www,
+      title={Robust Link Prediction over Noisy Hyper-Relational Knowledge Graphs},
+      author={Yang, Mingkun and Zhu, Ran and Wang, Qing and Yang, Jie},
+      booktitle={The World Wide Web Conference},
+      pages={to appear},
+      year={2024},
+      organization={ACM}
+    }
+
+- id: sun2024sigir
+  authors: Zhu Sun, Kaidong Feng, Jie Yang, Xinghua Qu, Hui Fang, Yew Soon Ong, and Wenyuan Liu
+  url: pdf/sun2024sigir.pdf
+  venue: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+  year: 2024
+  type: "full research paper"
+  highlight:
+  title: "Adaptive In-Context Learning with Large Language Models for Bundle Generation"
+  bib: |
+    @inproceedings{sun2024sigir,
+      title={Adaptive In-Context Learning with Large Language Models for Bundle Generation},
+      author={Sun, Zhu and Feng, Kaidong and Yang, Jie and Qu, Xinghua and Fang, Hui and Ong, Yew Soon and Liu, Wenyuan},
+      booktitle={Proceedings of the 45 ACM SIGIR Conference on Research and Development in Information Retrieval},
+      pages={to appear},
+      year={2024},
+      organization={ACM}
+    }
+
+- id: sun2024tors
+  authors: Zhu Sun, Kaidong Feng, Jie Yang, Hui Fang, Xinghua Qu, Yew Soon Ong, and Wenyuan Liu
+  url: pdf/sun2024tors.pdf
+  venue: ACM Transactions on Recommender Systems (TORS)
+  year: 2024
+  type: "journal paper"
+  highlight:
+  title: "Revisiting Bundle Recommendation for Intent-aware Product Bundling"
+  bib: |
+    @inproceedings{sun2024tors,
+      title={Revisiting Bundle Recommendation for Intent-aware Product Bundling},
+      author={Sun, Zhu and Feng, Kaidong and Yang, Jie and Fang, Hui and Qu, Xinghua and Ong, Yew Soon and Liu, Wenyuan},
+      booktitle={ACM Transactions on Recommender Systems},
+      pages={to appear},
+      year={2024},
+      organization={ACM}
+    }
+
 - id: tocchetti2023csur
   authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, Mireia Yurrita, Philip Lippmann, Marco Brambilla, Jie Yang
   url: https://arxiv.org/abs/2210.08906
@@ -142,6 +232,26 @@
       organization={ACM}
     }
 
+- id: zhu2023com
+  authors: Ran Zhu, Maxim Van den Abeele, Jona Beysens, Jie Yang, and Qing Wang
+  url: pdf/zhu2023com.pdf
+  venue: IEEE Communications Magazine
+  year: 2023
+  type: "journal"
+  highlight:
+  title: "Centimeter-Level Indoor Visible Light Positioning"
+  bib: |
+    @inproceedings{zhu2023com,
+      title={Centimeter-Level Indoor Visible Light Positioning},
+      author={Zhu, Ran and Van den Abeele, Maxim and Beysens, Jona and Yang, Jie and Wang, Qing},
+      booktitle={IEEE Communications Magazine},
+      volume={62},
+      issue={3},
+      pages={48 - 53},
+      year={2024},
+      organization={IEEE}
+    }
+
 - id: zhu2023secon
   authors: Ran Zhu, Mingkun Yang, Jie Yang, and Qing Wang
   url: pdf/zhu2023secon.pdf
@@ -153,47 +263,11 @@
   bib: |
     @inproceedings{zhu2023secon,
       title={FedNaWi: Selecting the Befitting Clients for Robust Federated Learning in IoT Applications},
-      author={Sayin, Burcu and Yang, Jie and Passerini, Andrea and Casati, Fabio},
+      author={Zhu, Ran and Yang, Mingkun and Yang, Jie and Wang, Qing},
       booktitle={Proceedings of the 2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)},
       pages={to appear},
       year={2023},
       organization={}
-    }
-    
-- id: demartini2023sigir
-  authors: Gianluca Demartini, Jie Yang, and Shazia Sadiq
-  url: pdf/demartini2023sigir.pdf
-  venue: ACM SIGIR Forum
-  year: 2023
-  type: "editorial contribution"
-  highlight: 
-  title: "Report on the 1st Workshop on Human-in-the-Loop Data Curation (HIL-DC 2022) at CIKM 2022"
-  bib: |
-    @inproceedings{demartini2023sigir,
-      title={Report on the 1st Workshop on Human-in-the-Loop Data Curation (HIL-DC 2022) at CIKM 2022},
-      author={Demartini, Gianluca and Yang, Jie and Sadiq, Shazia},
-      booktitle={ACM SIGIR Forum},
-      pages={1--8},
-      year={2023},
-      organization={ACM}
-    }
-
-- id: yang2023frontiers
-  authors: Jie Yang, Alessandro Bozzon, Ujwal Gadiraju, and Matthew Lease
-  url: pdf/yang2023frontiers.pdf
-  venue: Frontiers in Artificial Intelligence
-  year: 2023
-  type: "editorial contribution"
-  highlight: 
-  title: "Human-centered AI: Crowd computing"
-  bib: |
-    @inproceedings{yang2023frontiers,
-      title={Human-centered AI: Crowd Computing},
-      author={Yang, Jie and Bozzon, Alessandro and Gadiraju, Ujwal, and Lease, Matthew},
-      booktitle={Frontiers in Artificial Intelligence},
-      volume={6},
-      year={2023},
-      organization={Frontiers Media SA}
     }
 
 - id: sayin2023ahhai
@@ -231,6 +305,62 @@
       year={2023},
       organization={}
     }
+
+- id: zheng2023cikm
+  authors: Zheng Chen, Ziyan Jiang, Fan Yang, Zhankui He, Yupeng Hou, Eunah Cho, Julian McAuley, Aram Galstyan, Xiaohua Hu, and Jie Yang
+  url: pdf/zheng2023cikm.pdf
+  venue: ACM International Conference on Information and Knowledge Management
+  year: 2023
+  type: "editorial contribution"
+  highlight: 
+  title: "The first workshop on personalized generative ai@ cikm 2023: Personalization meets large language models"
+  bib: |
+    @inproceedings{zheng2023cikm,
+      title={The first workshop on personalized generative AI@ cikm 2023: Personalization meets large language models},
+      author={Zheng, Chen and Jiang, Ziyan and Yang, Fan and He, Zhankui and Hou, Yupeng and Cho Eunah and McAuley Julian and Galstyan, Aram and Hu, Xiaohua and Yang, Jie},
+      booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+      pages={5267-5270},
+      year={2023},
+      organization={ACM}
+    }
+
+- id: demartini2023sigir
+  authors: Gianluca Demartini, Jie Yang, and Shazia Sadiq
+  url: pdf/demartini2023sigir.pdf
+  venue: ACM SIGIR Forum
+  year: 2023
+  type: "editorial contribution"
+  highlight: 
+  title: "Report on the 1st Workshop on Human-in-the-Loop Data Curation (HIL-DC 2022) at CIKM 2022"
+  bib: |
+    @inproceedings{demartini2023sigir,
+      title={Report on the 1st Workshop on Human-in-the-Loop Data Curation (HIL-DC 2022) at CIKM 2022},
+      author={Demartini, Gianluca and Yang, Jie and Sadiq, Shazia},
+      booktitle={ACM SIGIR Forum},
+      pages={1--8},
+      year={2023},
+      organization={ACM}
+    }
+
+- id: yang2023frontiers
+  authors: Jie Yang, Alessandro Bozzon, Ujwal Gadiraju, and Matthew Lease
+  url: pdf/yang2023frontiers.pdf
+  venue: Frontiers in Artificial Intelligence
+  year: 2023
+  type: "editorial contribution"
+  highlight: 
+  title: "Human-centered AI: Crowd computing"
+  bib: |
+    @inproceedings{yang2023frontiers,
+      title={Human-centered AI: Crowd Computing},
+      author={Yang, Jie and Bozzon, Alessandro and Gadiraju, Ujwal, and Lease, Matthew},
+      booktitle={Frontiers in Artificial Intelligence},
+      volume={6},
+      year={2023},
+      organization={Frontiers Media SA}
+    }
+
+
 
 - id: sharifi2022www
   authors: Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon
