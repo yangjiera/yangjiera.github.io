@@ -13,8 +13,9 @@ I am an assistant professor in the [Web Information Systems](https://www.wis.ewi
 I develop *human-centered computing* for trustworthy machine learning, especially for natural language processing. The underlying assumption is that to create AI systems that properly serve people, it is crucial to involve human stakeholders of the systems across their entire lifecycles. My research contributes a new set of human-in-the-loop methods and tools that leverage human conceptual and perceptual abilities for understanding machine decisions and for guiding the decisions to better align with human values. With such efforts, my utmost goal is to transform machine learning into an engineering discipline that gives humans full control of AI such that it can be reliably and safely used in various contexts.
 
 ---
-**NEWS**: 
+**NEWS**: <br> 
 [Human Language Technologies](https://www.tudelft.nl/en/ai/research-innovation/our-research-themes/responsible-design-and-engineering-of-human-centered-ai-and-data-driven-systems/human-language-technologies) and [Human-Centered AI](https://www.tudelft.nl/en/ai/research-innovation/our-research-themes/responsible-design-and-engineering-of-human-centered-ai-and-data-driven-systems) communities at TU Delft;<br> 
+AI Robustness survey paper accepted at [ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3665926);<br>
 [Digital Society Conference 2024](https://www.aanmelder.nl/153030/home);<br>
 AAAI Spring Symposium [Bi-directionality in Human-AI Collaborative Systems](https://sites.google.com/view/bidirectionality2024) at Stanford, 2024;<br> 
 [Personalized Generative AI](https://sites.google.com/view/pgai2023/home) workshop at CIKM2023;<br> 

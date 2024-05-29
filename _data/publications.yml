@@ -1,3 +1,21 @@
+- id: tocchetti2024csur
+  authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, Mireia Yurrita, Philip Lippmann, Marco Brambilla, Jie Yang
+  url: https://arxiv.org/abs/2210.08906
+  venue: ACM Computing Surveys (CSUR)
+  year: 2024
+  type: "journal paper"
+  highlight:
+  title: "A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities"
+  bib: |
+    @inproceedings{tocchetti2024csur,
+      title={A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities},
+      author={Tocchetti, Andrea and Corti, Lorenzo and Balayn, Agathe and Yurrita, Mireia and Lippmann, Philip and Brambilla, Marco and Yang, Jie},
+      booktitle={ACM Computing Surveys},
+      pages={},
+      year={2024},
+      organization={ACM}
+    }
+
 - id: corti2024chi
   authors: Lorenzo Corti, Rembrandt Oltmans, Jiwon Jung, Agathe Balayn, Marlies Wijsenbeek, and Jie Yang
   url: pdf/corti2024chi.pdf
@@ -88,22 +106,36 @@
       organization={ACM}
     }
 
-- id: tocchetti2023csur
-  authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, Mireia Yurrita, Philip Lippmann, Marco Brambilla, Jie Yang
-  url: https://arxiv.org/abs/2210.08906
-  venue: arXiv
-  year: 2023
-  type: "journal paper"
+- id: wang2024lrec
+  authors: Zheng Wang, Peide Zhu, Jie Yang
+  url: pdf/wang2024lrec.pdf
+  venue: Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)
+  year: 2024
+  type: "full research paper"
   highlight:
-  title: "A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities"
+  title: "ControversialQA: Exploring Controversy in Question Answering"
   bib: |
-    @inproceedings{tocchetti2023csur,
-      title={A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities},
-      author={Tocchetti, Andrea and Corti, Lorenzo and Balayn, Agathe and Yurrita, Mireia and Lippmann, Philip and Brambilla, Marco and Yang, Jie},
-      booktitle={arxiv: 2210.08906},
-      pages={},
-      year={2023},
-      organization={}
+    @article{wang2024lrec,
+      title={ControversialQA: Exploring Controversy in Question Answering},
+      author={Wang, Zheng and Zhu, Peide and Yang, Jie},
+      booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation},
+      year={2024}
+    }
+
+- id: zhu2024mm
+  authors: Peide Zhu, Zheng Wang, Manabu Okumura, Jie Yang
+  url: pdf/zhu2024mm.pdf
+  venue: International Conference on Multimedia Modeling (MMM)
+  year: 2024
+  type: "full research paper"
+  highlight:
+  title: "MRHF: Multi-stage Retrieval and Hierarchical Fusion for Textbook Question Answering"
+  bib: |
+    @article{zhu2024mm,
+      title={MRHF: Multi-stage Retrieval and Hierarchical Fusion for Textbook Question Answering},
+      author={Zhu, Peide and Wang, Zheng and Okumura, Manabu and Yang, Jie},
+      booktitle={Proceedings of the 30th International Conference on Multimedia Modeling},
+      year={2024}
     }
 
 - id: sayin2023acl
