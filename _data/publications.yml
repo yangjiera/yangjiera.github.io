@@ -76,7 +76,7 @@
   venue: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
   year: 2024
   type: "full research paper"
-  highlight:
+  highlight: Best Paper Award nomination
   title: "Adaptive In-Context Learning with Large Language Models for Bundle Generation"
   bib: |
     @inproceedings{sun2024sigir,
@@ -180,7 +180,7 @@
   venue: AAAI/ACM Conference on AI, Ethics, and Society (AIES)
   year: 2023
   type: "full research paper"
-  highlight: Best Paper Award
+  highlight: Best Student Paper Award
   title: "Fairness Toolkits, A Checkbox Culture? On the Factors that Fragment Developer Practices in Handling Algorithmic Harms"
   bib: |
     @inproceedings{balayn2023aies,
