@@ -3,11 +3,11 @@ title: Jie Yang
 academic_email: j.yang-3@tudelft.nl
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+  human language technologies, human-centered computing, natural language processing, language modeling, human-computer interaction, AI ethics, artificial intelligence, information systems
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "https://ys1998.github.io" # the base hostname & protocol for your site
+url: "https://yangjiera.github.io" # the base hostname & protocol for your site
 
 twitter_username: yangjiera
 linkedin_username: yangjiera
