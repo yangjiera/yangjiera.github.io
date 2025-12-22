@@ -3,19 +3,19 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-    // min-height: 56px;
-    background-image: linear-gradient($blue-color-light, $blue-color-dark);
-    box-shadow: 0px 5px 10px grey;
+	border-bottom: 4px solid $clemson-purple;
+    background: $clemson-orange;
     // Positioning context for the mobile navigation icon
     position: relative;
+
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 28px;
 /* 		margin-top: 15px;
     line-height: 40px; */
-    // letter-spacing: -1px;
-    // margin-bottom: 0;
+    letter-spacing: -1px;
+    margin-bottom: 0;
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
@@ -26,14 +26,12 @@
     }
     &,
     &:hover {
-        color: #ffffff;
-	   text-decoration: none;
-    }
+	text-decoration: none;
+}
 }
 
 .site-header .wrapper {
-	padding-top: 10px;
-    padding-bottom: 10px;
+	padding-top: 18px;
 	position: relative;
 }
 
@@ -46,7 +44,7 @@
 	text-align: right;
 	float: right;
 	padding-top: 9px;
-	font-size: 85%;
+	font-size: 100%;
 	letter-spacing: 1px;
 	line-height: 1em;
 	font-weight: 600;
@@ -54,25 +52,24 @@
 	padding: 0;
 	list-style-type: none;
 	text-transform: uppercase;
-    font-family: 'Titillium Web', sans-serif;
+		font-family: 'Titillium Web', sans-serif;
+
 }
 
 .site-nav .menu > li {
-	border-bottom: 0px solid transparent;
+	border-bottom: 3px solid transparent;
 	display: inline-block;
 	height: 23px;
 	line-height: normal;
-	margin: 12px 10px 0 10px;
+	margin: 12px 0 0 20px;
+	padding: 0 0 2px 0;
 	position: relative;
-    vertical-align: top;
-    &:hover {
-        text-decoration: underline;
-    }
+	vertical-align: top;
 }
 
 .site-nav a {
 	display: block;
-    color: #ffffff;
+        color: #ffffff;
 }
 
 /* Sub Menu */
@@ -84,44 +81,45 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-    color: $blue-color-dark;
+color: #522d80;
+
 }
 
 .site-nav .sub-menu a:hover {
-	color: $blue-color-light;
+	color: $clemson-orange;
 }
 .site-nav  .sub-menu {
-	// background: #ffffff;
-    // border-color: $blue-color-dark;
-	// min-width: 265px;
+	background: #ffffff;
+	border-color: $clemson-purple;
+	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $blue-color-light;
-	border-right-color: $blue-color-light;
+	border-left-color: $clemson-orange;
+	border-right-color: $clemson-orange;
 	border-right: 0px;
 
 }
 
 
 .sub-menu {
-	border: 3px solid $blue-color-dark;
-    border-top: 20px solid transparent;
+	border: 3px solid transparent;
+	border-top: 0;
 	/* bg and border colors set in header */
 	box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	-moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	-webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	display: none;
-	right: -25%;
+	right: -10px;
 	padding: 4px 0 3px 0;
 	position: absolute;
 	text-align: left;
 	text-transform: none;
-	top: 15px;
-	// min-width: 265px;
+	top: 28px;
+	min-width: 265px;
 
-    z-index:2147483647;
+z-index:999;
 	font-family: Helvetica, Arial, Verdana, sans-serif;
 
 }
@@ -130,10 +128,9 @@
 	border-bottom: 0;
 	display: block;
 	height: auto;
-	// margin: 3px 0;
+	margin: 3px 0;
 	padding: 0;
-    text-align: left;
-    background: #ffffff;
+	text-align: left;
 }
 
 .site-nav li:hover > .sub-menu {
@@ -159,6 +156,7 @@
 
     .page-link {
         color: #ffffff;
+    background: $clemson-orange;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one

@@ -99,9 +99,13 @@ a {
 
     &:hover {
         color: $text-color;
-        // text-decoration: underline;
+        text-decoration: underline;
     }
 }
+
+/* .post-content a, .home a {
+	font-weight: 500;
+} */
 
 /**
  * Blockquotes
@@ -129,7 +133,7 @@ code {
     font-size: 14px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: lighten($blue-color-light, 35%);
+    background-color: #eef;
 }
 
 code {
@@ -202,24 +206,7 @@ pre {
     }
 }
 
-/**
- * Color button 
- */
-.color-button {
-    background: $blue-color-dark;
-    border-style: none;
-    border-radius: 10px;
-    color: white;
-    font-weight: bold;
-    font-size: 12px;
-    display: inline-block;
-    padding: 0px 10px;
-    margin: 0px 5px 0 0;
-    cursor: pointer;
-    &:hover {
-        background: $blue-color-light;
-    }
-}
+
 
 a.tosu {
 color: #b00000;

@@ -3,6 +3,9 @@
 ---
 @charset "utf-8";
 
+
+
+// Our variables
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 $base-font-size:   .95em;
 $small-font-size:  $base-font-size * 0.875;
@@ -13,9 +16,10 @@ $spacing-unit:     30px;
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #0077CC;
+// $gameday-sky: #109dc0;
+$clemson-purple:      #9bb2ce;
+$clemson-orange:      #012f5f;
 
-$blue-color-dark: darken(#3E7AD1, 10%);
-$blue-color-light: #4B93DB;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -28,18 +32,29 @@ $content-width:    950px;
 $on-palm:          600px;
 $on-laptop:        950px;
 
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-    "header",
+        "header",
 	"mobile-header",
-    "base",
-    "layout",
-    "syntax-highlighting",
-	"image"
+        "base",
+        "layout",
+        "syntax-highlighting",
+	"fancy-image"
 ;
