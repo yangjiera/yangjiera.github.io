@@ -7,10 +7,24 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li><strong>{{ site.title }}</strong></li>
+          <li><strong>Contact</strong></li>
           <li><a href="mailto:{{ site.academic_email }}">{{ site.academic_email }}</a></li>
           <li><a href="mailto:{{ site.general_email }}">{{ site.general_email }}</a></li>
         </ul>
+      </div>
+
+    <div class="footer-col  footer-col-3">
+        <!-- Simple Address / Location Icon -->
+        <!--svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          width="24"
+          height="24"
+          fill="currentColor"
+          aria-label="Address">
+          <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5s2.5 1.12 2.5 2.5S13.38 11.5 12 11.5z"/>
+        </svg-->
+        <span>{{ site.location }} </span>
       </div>
 
       <div class="footer-col  footer-col-2">
@@ -28,6 +42,20 @@
           </li>
           {% endif %}
 
+          {% if site.google_scholar %}
+          <li>
+              <span class="icon  icon--scholar">
+                <!-- License: MIT. Made by edent: https://github.com/edent/SuperTinyIcons -->
+                <svg width="24px" height="24px" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/>
+                </svg>
+              </span>
+            <a href="https://scholar.google.nl/citations?user={{ site.google_scholar }}&hl=en/">
+              <span class="username">Scholar</span>
+            </a>
+          </li>
+          {% endif %}
+
           {% if site.twitter_username %}
           <li>
               <span class="icon  icon--twitter">
@@ -37,7 +65,7 @@
                 </svg>
               </span>
             <a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="username">{{ site.twitter_username }}</span>
+              <span class="username">Twitter</span>
             </a>
           </li>
           {% endif %}
@@ -54,7 +82,7 @@
                 </svg>
               </span>
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-              <span class="username">{{ site.linkedin_username }}</span>
+              <span class="username">LinkedIn</span>
             </a>
           </li>
           {% endif %}
@@ -76,10 +104,7 @@
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
-         <p class="text">
-{{ site.description }} 
-      </div>
+      
     </div>
 
   </div>
