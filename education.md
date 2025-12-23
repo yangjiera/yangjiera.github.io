@@ -19,5 +19,5 @@ to philosophy PhDs across the Netherlands, 2024-now. <br>
 
 <h1>MSc Thesis Projects</h1>
 
-I supervise multiple master theses at any time. See <a href="https://repository.tudelft.nl/person/supervised/Person_dc351320-e8e1-47af-a3af-5cd4b53523ad?page=1&object_type=master_thesis"><b>here</b></a> the list of master these projects I have supervised. <br>
+I supervise multiple master’s theses at any time. See <a href="https://repository.tudelft.nl/person/supervised/Person_dc351320-e8e1-47af-a3af-5cd4b53523ad?page=1&object_type=master_thesis"><b>here</b></a> the list of these projects I have supervised. <br>
 <!--To students who are interested in working with me: my research has a strong hands-on style---a lot of the thesis projects are carried out together with societal or industrial partners.-->
