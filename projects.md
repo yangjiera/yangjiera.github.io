@@ -9,7 +9,7 @@ Projects are what inspire <a href="/research">my research</a> and vehicles that 
 <img src="../images/GENIUS.png" width="240" align="right">
 <h2 class="post-title">GENIUS: Generative-Enhanced Next-generation Intelligent Understanding Systems</h2>
 <p> <i> Lab Manager </i><br>
-A collaboration between <a href="https://www.tudelft.nl">TU Delft</a>, <a href="https://www.maastrichtuniversity.nl">Maastricht University</a>, <a href="https://www.dsm-firmenich.com/en/home.html">dsm-firmenich</a>, and <a href="https://kickstart.ai">Kickstart AI</a>, and the NWO Long-Term Programme ROBUST initiated by the <a href="https://icai.ai">Innovation Centre for Artificial Intelligence (ICAI)</a>.<br>
+A collaboration between <a href="https://www.tudelft.nl">TU Delft</a>, <a href="https://www.maastrichtuniversity.nl">Maastricht University</a>, <a href="https://www.dsm-firmenich.com/en/home.html">dsm-firmenich</a>, and <a href="https://kickstart.ai">Kickstart AI</a>, and the NWO Long-Term Programme ROBUST initiated by the <a href="https://icai.ai">Innovation Centre for Artificial Intelligence (ICAI)</a><br>
 Lab website: <a href="https://www.genius-lab.nl" target="_blank"> https://www.genius-lab.nl </a> <br>
 Lab duration: 2023-future <br>
 <br>

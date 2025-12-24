@@ -7,12 +7,12 @@ permalink: /team/
 <h1>PhD Students</h1>
 
 <ul>
-<li><a href="https://www.wis.ewi.tudelft.nl/barbosa">Juliana Barbosa</a>, TU Delft, 2025-present</li>
-<li><a href="https://www.linkedin.com/in/yannick-ter-heerdt-2ab29517a/">Yannick ter Heerdt</a>, Erasmus Medical Center & TU Delft, co-advised with <a href="https://www.tudelft.nl/io/over-io/personen/jung-j">Jiwon Jung</a> and <a href="linkedin.com/in/reiniervlinschoten">Reinier van Linschoten</a>, 2025-present</li>
-<li><a href="https://www.wis.ewi.tudelft.nl/arzberger">Anne Arzberger</a>, TU Delft, 2023-present</li>
-<li><a href="https://lcorti.github.io">Lorenzo Corti</a>, TU Delft, 2022-present</li>
-<li><a href="https://plippmann.com">Philip Lippmann</a>, TU Delft, 2022-present</li>
-<li><a href="https://mingkunyang.github.io">Mingkun Yang</a>, TU Delft, co-advised with <a href="https://www.st.ewi.tudelft.nl/qing/">Qing Wang</a>, 2021-present</li>
+<li><a href="https://www.wis.ewi.tudelft.nl/barbosa">Juliana Barbosa</a>, TU Delft, 2025-present</li>.
+<li><a href="https://www.linkedin.com/in/yannick-ter-heerdt-2ab29517a/">Yannick ter Heerdt</a>, Erasmus Medical Center & TU Delft, co-advised with <a href="https://www.tudelft.nl/io/over-io/personen/jung-j">Jiwon Jung</a> and <a href="linkedin.com/in/reiniervlinschoten">Reinier van Linschoten</a>, 2025-present</li>.
+<li><a href="https://www.wis.ewi.tudelft.nl/arzberger">Anne Arzberger</a>, TU Delft, 2023-present</li>.
+<li><a href="https://lcorti.github.io">Lorenzo Corti</a>, TU Delft, 2022-present</li>.
+<li><a href="https://plippmann.com">Philip Lippmann</a>, TU Delft, 2022-present</li>.
+<li><a href="https://mingkunyang.github.io">Mingkun Yang</a>, TU Delft, co-advised with <a href="https://www.st.ewi.tudelft.nl/qing/">Qing Wang</a>, 2021-present</li>.
 </ul>
 <hr style="height:5px; visibility:hidden;" />
 
@@ -30,6 +30,6 @@ permalink: /team/
 <h1>Visiting PhDs</h1>
 
 <ul>
-<li><a href="https://www.deib.polimi.it/eng/people/details/1054414">Andrea Tocchetti</a>, visiting PhD from Politecnico di Milano</li>
-<li><a href="https://burcusayin.github.io">Burcu Sayin</a>, visiting PhD from Univerity of Trento</li>
+<li><a href="https://www.deib.polimi.it/eng/people/details/1054414">Andrea Tocchetti</a>, visiting PhD from Politecnico di Milano</li>.
+<li><a href="https://burcusayin.github.io">Burcu Sayin</a>, visiting PhD from Univerity of Trento</li>.
 </ul>
