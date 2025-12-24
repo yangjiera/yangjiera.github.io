@@ -10,7 +10,7 @@ My research has focused on making AI more robust by developing methods that enab
 
 My work has quite an interdisciplinary flavor, mixing quantitative and qualitative research. It mixes empirical studies, data creation, algorithm/interface/system design, and evaluation; together, they make a cohesive cycle. My work is inspired by researchers and practitioners in design, philosophy, and social sciences. Through <a href="/projects">projects</a>, I have worked with engineers, biologists, doctors, librarians, lawyers, etc. Seeing others use my work marks some of the most exciting moments in my research.
 
-<small><i>A little note</i> about <a name="note">humans and AGI:</a> there can be several reasons why human inclusion (as in the integration of human perception and cognition in computation) might be essential for AGI: 1) there is something unique in our human brain/body; 2) there are some fundamental limits of computation; and in addition, 3) the world is too complex and indeterministic. Which one(s) do you believe?</small>
+<i>A little note</i> about <a name="note">humans and AGI:</a> there can be several reasons why human inclusion (as in the integration of human perception and cognition in computation) is essential for AGI: 1) there is something unique in our human brain/body; 2) there are some fundamental limits of computation; and in addition, 3) the world is too complex and indeterministic. Which one(s) do you believe?
 
 
 <h1>Selected Publications</h1>
