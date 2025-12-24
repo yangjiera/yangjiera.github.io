@@ -6,15 +6,15 @@ title: Research
 
 My research interests revolve around AI robustness, a problem that is inherently technical and deeply social. The problem lies in between the  information space where computers typically operate and the social space where humans act and interact. Robust AI entails AI that can be reliably used by humans in social contexts; furthermore, it entails that human inclusion in computation must be a valuable approach (and perhaps a necessary approach to [AGI](#note) if anyhow possible :). 
 
-My research has focused on making AI more robust by developing methods that enable [human inclusion in computation](#overview). These include methods to support human workers and domain experts in [analysing model knowledge](#analysing), and to support users and other stakeholders in [assessing model behaviour](#assessing). Further, taking an interactional view, I'm also interested in [understanding social factors](#humans) that influence the practice of developers and users around AI robustness, e.g., in debugging AI models and taking AI advice. 
+My research has focused on making AI more robust by developing methods that enable [human inclusion in computation](#overview). These include methods to support human workers and domain experts in [analysing model knowledge](#analysing), and to support users and other stakeholders in [assessing model behaviour](#assessing). Going further, I'm also interested in [understanding people](#humans), particularly social factors that influence the practice of developers and users around AI robustness, e.g., in debugging AI models and taking AI advice. 
 
-My work has quite an interdisciplinary flavor, mixing quantitative and qualitative research. It includes empirical studies, data creation, algorithm/interface/system design, and evaluation; together, they make a cohesive cycle. My work is inspired by researchers and practitioners in design, philosophy, and social sciences. Through <a href="/projects">projects</a>, I have worked with engineers, biologists, doctors, librarians, lawyers, etc. Seeing others use my work marks some of the most exciting moments in my research.
+My work has quite an interdisciplinary flavor, mixing quantitative and qualitative research. It mixes empirical studies, data creation, algorithm/interface/system design, and evaluation; together, they make a cohesive cycle. My work is inspired by researchers and practitioners in design, philosophy, and social sciences. Through <a href="/projects">projects</a>, I have worked with engineers, biologists, doctors, librarians, lawyers, etc. Seeing others use my work marks some of the most exciting moments in my research.
 
-<a name="note">Note:</a> there can be several reasons why human inclusion (as in the integration of human perception and cognition in computation) might be essential for AGI: 1) there is something unique in our human brain/body, 2) there are some fundamental limits of computation; and in addition, 3) the world is too complex and indeterministic. Which one(s) do you believe?
+<small><i>A little note</i> about <a name="note">humans and AGI:</a> there can be several reasons why human inclusion (as in the integration of human perception and cognition in computation) might be essential for AGI: 1) there is something unique in our human brain/body; 2) there are some fundamental limits of computation; and in addition, 3) the world is too complex and indeterministic. Which one(s) do you believe?</small>
 
 
 <h1>Selected Publications</h1>
-I publish in AI-related venues spanning information systems, human-computer interaction, and AI ethics. These include COLM, ICLR, WWW/TheWebConf, SIGIR, CHI, HCOMP, and AIES. To get to know my research, below is a selected list of publications. For a full and up-to-date list, please check my <a href="https://scholar.google.nl/citations?user=DAlsOOEAAAAJ&hl=en">Google Scholar page</a>.
+I publish in AI-related venues spanning information systems, human-computer interaction, and AI ethics. These include WWW/TheWebConf, CHI, AIES, COLM, ICLR, SIGIR, HCOMP, etc. To read my work, below is a selected list of publications. For a full and up-to-date list, please check my <a href="https://scholar.google.nl/citations?user=DAlsOOEAAAAJ&hl=en">Google Scholar page</a>.
 
 <a name="overview">Overview of human-centered perspective</a> to AI robustness (about data, model, and humans).
 <ul>
@@ -34,7 +34,7 @@ I publish in AI-related venues spanning information systems, human-computer inte
 	<li>Lammerts, P., Lippmann, P., Hsu, Y.C., Casati, F. and Yang, J. How Do You Feel? measuring user-perceived value for rejecting machine decisions in hate speech detection. In Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society (AIES), pp. 834-844, 2023. (<a href="https://doi.org/10.1145/3600211.3604655">link</a>)</li>
 </ul>
 
-<a name="humans">On understanding humans (and interaction)</a>
+<a name="humans">On understanding people (and interaction)</a>
 <ul>
 	<li>Corti, L., Oltmans, R., Jung, J., Balayn, A., Wijsenbeek, M. and Yang, J. ``It Is a Moving Process": Understanding the evolution of explainability needs of clinicians in pulmonary medicine. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-21, 2024. (<a href="https://doi.org/10.1145/3613904.3642551">link</a>)</li>
 	<li> Balayn, A., Rikalo, N., Lofi, C., Yang, J. and Bozzon, A. How can explainability methods be used to support bug identification in computer vision models? In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-16, 2022. (<a href="https://dl.acm.org/doi/10.1145/3491102.3517474">link</a>)</li>
