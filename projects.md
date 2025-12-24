@@ -4,7 +4,7 @@ permalink: /projects/
 title: Projects
 ---
 
-Projects are what inspire <a href="/research">my research</a> and vehicles that deliver my research impact. 
+Projects are what faciliate, inspire <a href="/research">my research</a> and vehicles that deliver my research impact. 
 
 <img src="../images/GENIUS.png" width="240" align="right">
 <h2 class="post-title">GENIUS: Generative-Enhanced Next-generation Intelligent Understanding Systems</h2>
