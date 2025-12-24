@@ -47,14 +47,14 @@ I publish in AI-related venues spanning information systems, human-computer inte
 
 My work has received many "best paper" awards/nominations:
 <ul>
-	<li> Best paper award nomination at ACM SIGIR 2024 for "Adaptive In-Context Learning with Large Language Models for Bundle Generation" (<a href="https://dl.acm.org/doi/10.1145/3626772.3657808">link</a>)</li>.
-	<li> Best paper award nomination at WWW/TheWebConf 2023 for "HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale" (<a href="https://dl.acm.org/doi/10.1145/3543507.3583496">link</a>)</li>.
-	<li> Best student paper award at AAAI/ACM AIES 2023 for "Fairness Toolkits, A Checkbox Culture? On the Factors that Fragment Developer Practices in Handling Algorithmic Harms" (<a href="https://dl.acm.org/doi/10.1145/3600211.3604674">link</a>)</li>.
-	<li> Best paper award at AAAI HCOMP 2022 for "It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge" (<a href="https://ojs.aaai.org/index.php/HCOMP/article/view/21990">link</a>)</li>.
-	<li> Best paper award nomination at WWW/TheWebConf 2022 for Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game" (<a href="https://dl.acm.org/doi/10.1145/3485447.3512241">link</a>)</li>.
-	<li> Best blue-sky ideas paper at AAAI HCOMP 2021 for" The Science of Rejection: A Research Area for Human Computation" (<a href="https://www.humancomputation.com/assets/blue_sky/HCOMP_2021_paper_102.pdf">link</a>)</li>.
-	<li> Best demo award at AAAI HCOMP 2021 for "FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge"</li>.
-	<li> Best paper award at ACM HyperText 2017 for "Clarity is a Worthwhile Quality - On the Role of Task Clarity in Microtask Crowdsourcing" (<a href="https://dl.acm.org/doi/10.1145/3078714.3078715">link</a>)</li>.
+	<li> Best paper award nomination at ACM SIGIR 2024 for "Adaptive In-Context Learning with Large Language Models for Bundle Generation" (<a href="https://dl.acm.org/doi/10.1145/3626772.3657808">link</a>).</li>
+	<li> Best paper award nomination at WWW/TheWebConf 2023 for "HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale" (<a href="https://dl.acm.org/doi/10.1145/3543507.3583496">link</a>).</li>
+	<li> Best student paper award at AAAI/ACM AIES 2023 for "Fairness Toolkits, A Checkbox Culture? On the Factors that Fragment Developer Practices in Handling Algorithmic Harms" (<a href="https://dl.acm.org/doi/10.1145/3600211.3604674">link</a>).</li>
+	<li> Best paper award at AAAI HCOMP 2022 for "It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge" (<a href="https://ojs.aaai.org/index.php/HCOMP/article/view/21990">link</a>).</li>
+	<li> Best paper award nomination at WWW/TheWebConf 2022 for Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game" (<a href="https://dl.acm.org/doi/10.1145/3485447.3512241">link</a>).</li>
+	<li> Best blue-sky ideas paper at AAAI HCOMP 2021 for" The Science of Rejection: A Research Area for Human Computation" (<a href="https://www.humancomputation.com/assets/blue_sky/HCOMP_2021_paper_102.pdf">link</a>).</li>
+	<li> Best demo award at AAAI HCOMP 2021 for "FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge".</li>
+	<li> Best paper award at ACM HyperText 2017 for "Clarity is a Worthwhile Quality - On the Role of Task Clarity in Microtask Crowdsourcing" (<a href="https://dl.acm.org/doi/10.1145/3078714.3078715">link</a>).</li>
 </ul>
 
 
