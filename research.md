@@ -58,10 +58,13 @@ My work has received many "best paper" awards/nominations:
 </ul>
 
 
-<h1>Services</h1>
-I actively serve our research communities. 
+<h1>Acivities & Services</h1>
 
-I regularly serve as an area chair or on the senior program committee of <a href="https://aclrollingreview.org">ACL Rolling Review (ARR)</a>, <a href="https://thewebconf.org">The Web Conference (WWW)</a> (received the "best reviewer" award in 2023), <a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence (AAAI)</a>, and <a href="http://www.cikmconference.org">ACM Conference on Information and Knowledge Management (CIKM)</a>.
+I actively promote human-cetered computing, robust AI in our research communities and actively serve the communities. 
+
+Check our AAAI Sympsium <a href="https://sites.google.com/view/bidirectionality2024/program">Bi-directionality in Human-AI Collaborative Systems</a> at Stanford, the <a href="https://sites.google.com/view/pgai2023/home">Personalized Generative AI</a> workshop with mostly researchers from industry (e.g., Amazon and Meta), and the <a href="https://hilworkshops.github.io/hil-dc2022/">Human-in-the-loop Data Curation</a> workshop with active participation from both academia and industry. 
+
+I regularly serve as an area chair or on the senior program committee of <a href="https://aclrollingreview.org">ACL Rolling Review (ARR)</a>, <a href="https://thewebconf.org">The Web Conference (WWW)</a> (received the "best reviewer" award in 2023), <a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence (AAAI)</a>, and <a href="http://www.cikmconference.org">ACM Conference on Information and Knowledge Management (CIKM)</a>. I was a program chair for <a href="https://icwe2025.webengineering.org">the 25th International Conference on Web Engineering (ICWE)</a>. 
 
 I'm an associate editor for <a href="https://www.frontiersin.org/journals/artificial-intelligence">Frontiers of Artificial Intelligence</a> (NLP section) and serve on the editorial board of the <a href="https://hcjournal.org/index.php/jhc">Journal of Human Computation</a>. I was a guest editor for the <a href="https://dl.acm.org/journal/JDIQ">ACM Journal of Data and Information Quality</a>.
 
