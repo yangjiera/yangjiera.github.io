@@ -16,6 +16,6 @@ This page keeps a list of the most requested datasets and code.
 
 # <a name="code">Code</a>
 
-+ [MARTA](https://github.com/eXascaleInfolab/MARTA): An Explainable Text Classification Integrating Human Rationales.
++ [MARTA](https://github.com/eXascaleInfolab/MARTA): Explainable Text Classification Integrating Human Rationales.
 + [OpenCrowd](https://github.com/eXascaleInfolab/OpenCrowd): A Human-AI Collaborative Approach for Finding Open-Ended Answers.
-+ [daisyRec](https://github.com/yudi-mars/daisyRec) and [daisyRec-v2.0](https://github.com/recsys-benchmark/DaisyRec-v2.0): A Python toolkit developed for benchmarking top-N recommendation. 
++ [daisyRec](https://github.com/yudi-mars/daisyRec) and [daisyRec-v2.0](https://github.com/recsys-benchmark/DaisyRec-v2.0): A Python toolkit for benchmarking top-N recommendation. 
