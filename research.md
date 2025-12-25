@@ -16,7 +16,7 @@ My work has quite an interdisciplinary flavor, mixing quantitative and qualitati
 <h1>Selected Publications</h1>
 I publish in AI-related venues spanning information systems, human-computer interaction, and AI ethics. These include WWW/TheWebConf, CHI, AIES, COLM, ICLR, SIGIR, HCOMP, etc. To read my work, below is a selected list of publications. For a full and up-to-date list, please check my <a href="https://scholar.google.nl/citations?user=DAlsOOEAAAAJ&hl=en">Google Scholar page</a>.
 
-<a name="overview">Overview of human-centered perspective</a> to AI robustness (about data, model, and humans):
+<a name="overview">Overview of human-centered perspective</a> to AI robustness, especially about the relationships between data, model, and humans:
 <ul>
 	<li>Tocchetti, A., Corti, L., Balayn, A., Yurrita, M., Lippmann, P., Brambilla, M. and Yang, J. A.I. Robustness: a human-centered perspective on technological challenges and opportunities. ACM Computing Surveys (CSUR) 57, no. 6 (2025): 1-38. (On arXiv since 2022) (<a href="https://dl.acm.org/doi/10.1145/3665926">ACM link</a>, <a href="https://arxiv.org/abs/2210.08906">arXiv link</a> with supplimentary material)</li>
 	<li>Yang, J., Drake, T., Damianou, A. and Maarek, Y. Leveraging crowdsourcing data for deep active learning an application: Learning intents in Alexa. In Proceedings of the Web Conference (TheWebConf), pp. 23-32, 2018. (<a href="https://dl.acm.org/doi/10.1145/3178876.3186033">link</a>)</li>
@@ -60,9 +60,9 @@ My work has received many "best paper" awards/nominations:
 
 <h1>Acivities & Services</h1>
 
-I actively promote human-cetered computing, robust AI in our research communities and actively serve the communities. 
+I promote important ideas around humans and AI in our research communities and actively serve the communities. 
 
-Check our AAAI Sympsium <a href="https://sites.google.com/view/bidirectionality2024/program">Bi-directionality in Human-AI Collaborative Systems</a> at Stanford, the <a href="https://sites.google.com/view/pgai2023/home">Personalized Generative AI</a> workshop with mostly researchers from industry (e.g., Amazon and Meta), and the <a href="https://hilworkshops.github.io/hil-dc2022/">Human-in-the-loop Data Curation</a> workshop with active participation from both academia and industry. 
+For activities related to human-cetered computing and robust AI, please check our AAAI Sympsium <a href="https://sites.google.com/view/bidirectionality2024/program">Bi-directionality in Human-AI Collaborative Systems</a> at Stanford, the <a href="https://sites.google.com/view/pgai2023/home">Personalized Generative AI</a> workshop with mostly researchers from industry (e.g., Amazon and Meta), and the <a href="https://hilworkshops.github.io/hil-dc2022/">Human-in-the-loop Data Curation</a> workshop with active participation from both academia and industry. 
 
 I regularly serve as an area chair or on the senior program committee of <a href="https://aclrollingreview.org">ACL Rolling Review (ARR)</a>, <a href="https://thewebconf.org">The Web Conference (WWW)</a> (received the "best reviewer" award in 2023), <a href="https://aaai.org/conference/aaai/">AAAI Conference on Artificial Intelligence (AAAI)</a>, and <a href="http://www.cikmconference.org">ACM Conference on Information and Knowledge Management (CIKM)</a>. I was a program chair for <a href="https://icwe2025.webengineering.org">the 25th International Conference on Web Engineering (ICWE)</a>. 
 
