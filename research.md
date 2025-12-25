@@ -58,7 +58,7 @@ My work has received many "best paper" awards/nominations:
 </ul>
 
 
-<h1>Acivities & Services</h1>
+<h1>Activities & Services</h1>
 
 I promote important ideas around humans and AI in our research communities and actively serve the communities. 
 
