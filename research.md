@@ -40,7 +40,7 @@ I publish in AI-related venues spanning information systems, human-computer inte
 	<li> Balayn, A., Rikalo, N., Lofi, C., Yang, J. and Bozzon, A. How can explainability methods be used to support bug identification in computer vision models? In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-16, 2022. (<a href="https://dl.acm.org/doi/10.1145/3491102.3517474">link</a>)</li>
 </ul>
 
-
+<b>Data & Code</b>: many of my publications come with data and code. If you are looking for them, please check <a href="/miscellany">this page</a>.
 
 <h1>Some Awards</h1>
 

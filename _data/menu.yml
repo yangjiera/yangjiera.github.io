@@ -9,3 +9,11 @@
 
 - title: "Education"
   href: "/education/"
+
+- title: "Miscellany"
+  href: "/miscellany/"
+  subcategories:
+    - subtitle: "Datasets"
+      subhref: "/miscellany#datasets/"
+    - subtitle: "Code"
+      subhref: "/miscellany#code/"

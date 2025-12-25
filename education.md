@@ -6,9 +6,9 @@ permalink: /education/
 
 <h1>Teaching</h1>
 <h2>Computer science courses</h2> 
-DSAIT4090 Natural Language Processing, 2022-now. <br>
-DSAIT4055 Web Science and Engineering, 2020-now. <br> 
-DSAIT4050 Information Retrieval, 2020-2024. <br> 
+<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14803">DSAIT4090</a> Natural Language Processing, 2022-now. <br>
+<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14769">DSAIT4055</a> Web Science and Engineering, 2020-now. <br> 
+<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14768">DSAIT4050</a> Information Retrieval, 2020-2024. <br> 
 
 <h2>Interdiscplinary courses</h2>
 <a href="https://www.tudelft.nl/ai/onderwijs/ai-onderwijs/fundamentals-of-artificial-intelligence-programme-2024-2025">Fundamentals of Artificial Intelligence Programme</a> for students in other engieering disciplines at TU Delft, 2020-now. <br>
