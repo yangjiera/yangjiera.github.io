@@ -8,11 +8,13 @@ permalink: /education/
 <h2>Computer science courses</h2> 
 <a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14803">DSAIT4090</a> Natural Language Processing, 2022-now. <br>
 <a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14769">DSAIT4055</a> Web Science and Engineering, 2020-now. <br> 
-<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14768">DSAIT4050</a> Information Retrieval, 2020-2024. <br> 
+<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14768">DSAIT4050</a> Information Retrieval, mostly during 2020-2024. <br> 
+<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14767">CS4145</a> Crowd Computing, only slightly involved 2020-now. <br> 
+<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/14466">DSAIT4000</a> Data Management and Engineering, 2025. <br> 
 
 <h2>Interdiscplinary courses</h2>
-<a href="https://www.tudelft.nl/ai/onderwijs/ai-onderwijs/fundamentals-of-artificial-intelligence-programme-2024-2025">Fundamentals of Artificial Intelligence Programme</a> for students in other engieering disciplines at TU Delft, 2020-now. <br>
-<a href="https://www.4tu.nl/ethics/calendar/lc9-philosophy-and-ethics-ai/">Philosophy and Ethics of AI</a> for philosophy PhDs across the Netherlands, 2024-now. <br>
+<a href="https://www.tudelft.nl/ai/onderwijs/ai-onderwijs/fundamentals-of-artificial-intelligence-programme-2024-2025">Fundamentals of Artificial Intelligence Programme</a> for non-computer science students at TU Delft, 2020-now. <br>
+<a href="https://www.4tu.nl/ethics/calendar/lc9-philosophy-and-ethics-ai/">Philosophy and Ethics of AI</a> at <a href="https://www.4tu.nl/ethics/">4TU.ethics</a>, for philosophy PhDs across the Netherlands, 2024-now. <br>
 
 <hr style="height:10px; visibility:hidden;" />
 
