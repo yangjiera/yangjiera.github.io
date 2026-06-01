@@ -7,11 +7,11 @@ permalink: /team/
 <h1>PhD Students</h1>
 
 <ul>
+<li><a href="https://www.wis.ewi.tudelft.nl/sebastiaan">Sebastiaan Beekman</a>, TU Delft, co-advised with <a href="https://vermahimanshu.com">Himanshu Verma</a>, 2026-present.</li>
 <li><a href="https://www.wis.ewi.tudelft.nl/barbosa">Juliana Barbosa</a>, TU Delft, 2025-present.</li>
 <li><a href="https://www.linkedin.com/in/yannick-ter-heerdt-2ab29517a/">Yannick ter Heerdt</a>, TU Delft & Erasmus Medical Center, co-advised with <a href="https://www.tudelft.nl/io/over-io/personen/jung-j">Jiwon Jung</a> and <a href="linkedin.com/in/reiniervlinschoten">Reinier van Linschoten</a>, 2025-present.</li>
 <li><a href="https://www.wis.ewi.tudelft.nl/arzberger">Anne Arzberger</a>, TU Delft, 2023-present.</li>
 <li><a href="https://lcorti.github.io">Lorenzo Corti</a>, TU Delft, 2022-present.</li>
-<li><a href="https://plippmann.com">Philip Lippmann</a>, TU Delft, 2022-present.</li>
 <li><a href="https://mingkunyang.github.io">Mingkun Yang</a>, TU Delft, co-advised with <a href="https://www.st.ewi.tudelft.nl/qing/">Qing Wang</a>, 2021-present.</li>
 </ul>
 <hr style="height:5px; visibility:hidden;" />
@@ -19,6 +19,7 @@ permalink: /team/
 <h1>Former PhDs and Postdocs</h1>
 
 <ul>
+<li><a href="https://plippmann.com">Philip Lippmann</a>, TU Delft, PhD defended in June, 2026 (TU Delft), with dissertation <a href="https://doi.org/10.4233/uuid:bea358f8-ff6f-43be-a065-a6e1a0b3bc5b">Synthetic Data for Robust Language Modeling</a>.</li>
 <li><a href="https://www.linkedin.com/in/shahin-sharifi/">Shahin Sharifi Noorian</a>, PhD defended in Feb, 2025 (TU Delft), with dissertation <a href="https://doi.org/10.4233/uuid:51fc7a95-fe5f-4519-989c-39646e191148">"From recognition to understanding: enriching visual models through multi-modal semantic integration"</a>. Now Data Science Practice Lead at Infosys.</li>
 <li><a href="https://exascale.info/members/alisa-smirnova/">Alisa Smirnova</a>, PhD defended in April, 2024 (University of Fribourg), with dissertation <a href="https://www.unifr.ch/scimed/de/agenda?eventid=15678">"Integrating Neural Networks and Human Insight for Improved Relation Extraction"</a>. Now Head of Research at Toloka.</li>
 <li><a href="https://agathe-balayn.github.io">Agathe Balayn</a>, postdoc, 2023 (TU Delft), now Researcher at Microsoft Research.</li>
