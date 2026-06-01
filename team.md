@@ -19,7 +19,7 @@ permalink: /team/
 <h1>Former PhDs and Postdocs</h1>
 
 <ul>
-<li><a href="https://plippmann.com">Philip Lippmann</a>, TU Delft, PhD defended in June, 2026 (TU Delft), with dissertation <a href="https://doi.org/10.4233/uuid:bea358f8-ff6f-43be-a065-a6e1a0b3bc5b">Synthetic Data for Robust Language Modeling</a>. Now Research Scientist at TikTok.</li>
+<li><a href="https://plippmann.com">Philip Lippmann</a>, TU Delft, PhD defended in June, 2026 (TU Delft), with dissertation <a href="https://doi.org/10.4233/uuid:bea358f8-ff6f-43be-a065-a6e1a0b3bc5b">"Synthetic Data for Robust Language Modeling"</a>. Now Research Scientist at TikTok.</li>
 <li><a href="https://www.linkedin.com/in/shahin-sharifi/">Shahin Sharifi Noorian</a>, PhD defended in Feb, 2025 (TU Delft), with dissertation <a href="https://doi.org/10.4233/uuid:51fc7a95-fe5f-4519-989c-39646e191148">"From recognition to understanding: enriching visual models through multi-modal semantic integration"</a>. Now Data Science Practice Lead at Infosys.</li>
 <li><a href="https://exascale.info/members/alisa-smirnova/">Alisa Smirnova</a>, PhD defended in April, 2024 (University of Fribourg), with dissertation <a href="https://www.unifr.ch/scimed/de/agenda?eventid=15678">"Integrating Neural Networks and Human Insight for Improved Relation Extraction"</a>. Now Head of Research at Toloka.</li>
 <li><a href="https://agathe-balayn.github.io">Agathe Balayn</a>, postdoc, 2023 (TU Delft), now Researcher at Microsoft Research.</li>
